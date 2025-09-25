@@ -1,0 +1,56 @@
+model:
+  name: FerretNet-B-Median-3
+  task: Synthetic image detection, for batch inference.
+  struct:
+    name: Ferret
+    in_channels: 3
+    num_classes: 1
+    dim: 96
+    depths:
+      - 2
+      - 2
+    lpd_func: median
+    window_size: 3
+
+data:
+  test_set_dir: SID-Dataset/ForenSynths
+  dataset_type: SynDataset
+  is_multi_loader: true
+  class_to_idx:
+  test_transforms:
+    name: define_transforms
+    kwargs:
+      - type: CenterCrop
+        size:
+          - 256
+          - 256
+      - type: ToTensor
+      - type: Normalize
+        mean:
+          - 0.48145466
+          - 0.4578275
+          - 0.40821073
+        std:
+          - 0.26862954
+          - 0.26130258
+          - 0.27577711
+        inplace: true
+  test_target_transforms:
+
+tester:
+  name: SynTester
+  resume_ckpt:
+  batch_size_test: 64
+  batch_size_per_gpu_test:
+  num_workers_per_gpu: 8
+  pin_memory: true
+  scaler: native
+  sync_bn: false
+  dist_bn:
+  amp: true
+
+logger:
+  dir: logs/Test
+  logger_rank: 0
+
+seed: 42

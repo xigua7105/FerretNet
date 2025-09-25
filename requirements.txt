@@ -1,0 +1,10 @@
+torch
+torchvision
+numpy
+tqdm
+scikit-learn
+thop
+matplotlib
+tensorboardx
+opencv_python
+pyyaml

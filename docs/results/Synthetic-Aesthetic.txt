@@ -1,0 +1,161 @@
+---2025_01_03_12_01_47|	VAL Model:ferretnet-b-median-3
+004           |	ACC:0.972|	AP:0.996|	R_ACC:0.9620|	F_ACC:0.9823|	Loss:0.0839
+003           |	ACC:0.973|	AP:0.996|	R_ACC:0.9608|	F_ACC:0.9852|	Loss:0.0859
+002           |	ACC:0.973|	AP:0.996|	R_ACC:0.9648|	F_ACC:0.9816|	Loss:0.0799
+001           |	ACC:0.973|	AP:0.996|	R_ACC:0.9604|	F_ACC:0.9858|	Loss:0.0833
+average       |	ACC:0.973|	AP:0.996|	R_ACC:0.9620|	F_ACC:0.9837|	Loss:0.0832
+
+---2025_01_03_12_13_32|	VAL Model:ferretnet-b-median-5
+004           |	ACC:0.971|	AP:0.989|	R_ACC:0.9663|	F_ACC:0.9759|	Loss:0.0877
+003           |	ACC:0.969|	AP:0.988|	R_ACC:0.9664|	F_ACC:0.9707|	Loss:0.0976
+002           |	ACC:0.969|	AP:0.990|	R_ACC:0.9657|	F_ACC:0.9730|	Loss:0.0930
+001           |	ACC:0.968|	AP:0.988|	R_ACC:0.9644|	F_ACC:0.9724|	Loss:0.0959
+average       |	ACC:0.969|	AP:0.989|	R_ACC:0.9657|	F_ACC:0.9730|	Loss:0.0936
+
+---2025_01_03_12_23_33|	VAL Model:ferretnet-b-median-7
+004           |	ACC:0.854|	AP:0.946|	R_ACC:0.9383|	F_ACC:0.7689|	Loss:0.4098
+003           |	ACC:0.848|	AP:0.944|	R_ACC:0.9386|	F_ACC:0.7577|	Loss:0.4166
+002           |	ACC:0.848|	AP:0.943|	R_ACC:0.9397|	F_ACC:0.7557|	Loss:0.4209
+001           |	ACC:0.851|	AP:0.944|	R_ACC:0.9390|	F_ACC:0.7628|	Loss:0.4137
+average       |	ACC:0.850|	AP:0.944|	R_ACC:0.9389|	F_ACC:0.7613|	Loss:0.4153
+
+---2025_01_03_12_33_25|	VAL Model:ferretnet-b-stdmed-3
+004           |	ACC:0.936|	AP:0.982|	R_ACC:0.8910|	F_ACC:0.9807|	Loss:0.2018
+003           |	ACC:0.935|	AP:0.984|	R_ACC:0.8898|	F_ACC:0.9798|	Loss:0.1995
+002           |	ACC:0.935|	AP:0.980|	R_ACC:0.8930|	F_ACC:0.9770|	Loss:0.2061
+001           |	ACC:0.935|	AP:0.982|	R_ACC:0.8921|	F_ACC:0.9780|	Loss:0.2050
+average       |	ACC:0.935|	AP:0.982|	R_ACC:0.8915|	F_ACC:0.9789|	Loss:0.2031
+
+---2025_01_03_12_43_20|	VAL Model:ferretnet-b-stdmed-5
+004           |	ACC:0.920|	AP:0.977|	R_ACC:0.9535|	F_ACC:0.8860|	Loss:0.2111
+003           |	ACC:0.916|	AP:0.974|	R_ACC:0.9506|	F_ACC:0.8812|	Loss:0.2246
+002           |	ACC:0.917|	AP:0.977|	R_ACC:0.9497|	F_ACC:0.8851|	Loss:0.2154
+001           |	ACC:0.917|	AP:0.975|	R_ACC:0.9507|	F_ACC:0.8830|	Loss:0.2235
+average       |	ACC:0.917|	AP:0.976|	R_ACC:0.9511|	F_ACC:0.8838|	Loss:0.2186
+
+---2025_01_03_12_53_10|	VAL Model:ferretnet-b-stdmed-7
+004           |	ACC:0.902|	AP:0.956|	R_ACC:0.8720|	F_ACC:0.9323|	Loss:0.2604
+003           |	ACC:0.902|	AP:0.954|	R_ACC:0.8733|	F_ACC:0.9299|	Loss:0.2641
+002           |	ACC:0.898|	AP:0.956|	R_ACC:0.8663|	F_ACC:0.9301|	Loss:0.2649
+001           |	ACC:0.900|	AP:0.955|	R_ACC:0.8627|	F_ACC:0.9382|	Loss:0.2618
+average       |	ACC:0.901|	AP:0.955|	R_ACC:0.8686|	F_ACC:0.9326|	Loss:0.2628
+
+---2025_01_03_13_02_33|	VAL Model:ferretnet-b-avgmed-3
+004           |	ACC:0.957|	AP:0.988|	R_ACC:0.9699|	F_ACC:0.9438|	Loss:0.1234
+003           |	ACC:0.957|	AP:0.988|	R_ACC:0.9688|	F_ACC:0.9456|	Loss:0.1263
+002           |	ACC:0.957|	AP:0.988|	R_ACC:0.9690|	F_ACC:0.9452|	Loss:0.1313
+001           |	ACC:0.956|	AP:0.987|	R_ACC:0.9649|	F_ACC:0.9470|	Loss:0.1321
+average       |	ACC:0.957|	AP:0.988|	R_ACC:0.9681|	F_ACC:0.9454|	Loss:0.1283
+
+---2025_01_03_13_11_54|	VAL Model:ferretnet-b-avgmed-5
+004           |	ACC:0.909|	AP:0.969|	R_ACC:0.9431|	F_ACC:0.8743|	Loss:0.2308
+003           |	ACC:0.906|	AP:0.969|	R_ACC:0.9432|	F_ACC:0.8688|	Loss:0.2315
+002           |	ACC:0.906|	AP:0.972|	R_ACC:0.9455|	F_ACC:0.8668|	Loss:0.2310
+001           |	ACC:0.905|	AP:0.969|	R_ACC:0.9405|	F_ACC:0.8686|	Loss:0.2330
+average       |	ACC:0.906|	AP:0.970|	R_ACC:0.9431|	F_ACC:0.8696|	Loss:0.2316
+
+---2025_01_03_13_21_16|	VAL Model:ferretnet-b-avgmed-7
+004           |	ACC:0.872|	AP:0.933|	R_ACC:0.8758|	F_ACC:0.8687|	Loss:0.3363
+003           |	ACC:0.873|	AP:0.935|	R_ACC:0.8754|	F_ACC:0.8704|	Loss:0.3324
+002           |	ACC:0.871|	AP:0.932|	R_ACC:0.8712|	F_ACC:0.8703|	Loss:0.3462
+001           |	ACC:0.870|	AP:0.933|	R_ACC:0.8721|	F_ACC:0.8670|	Loss:0.3451
+average       |	ACC:0.871|	AP:0.933|	R_ACC:0.8736|	F_ACC:0.8691|	Loss:0.3400
+
+---2025_01_03_13_30_39|	VAL Model:ferretnet-b-max-3
+004           |	ACC:0.931|	AP:0.977|	R_ACC:0.8918|	F_ACC:0.9701|	Loss:0.1962
+003           |	ACC:0.930|	AP:0.977|	R_ACC:0.8946|	F_ACC:0.9659|	Loss:0.1958
+002           |	ACC:0.926|	AP:0.976|	R_ACC:0.8839|	F_ACC:0.9686|	Loss:0.2068
+001           |	ACC:0.925|	AP:0.975|	R_ACC:0.8848|	F_ACC:0.9655|	Loss:0.2108
+average       |	ACC:0.928|	AP:0.976|	R_ACC:0.8888|	F_ACC:0.9675|	Loss:0.2024
+
+---2025_01_03_13_40_02|	VAL Model:ferretnet-b-max-5
+004           |	ACC:0.872|	AP:0.956|	R_ACC:0.9426|	F_ACC:0.8018|	Loss:0.3282
+003           |	ACC:0.866|	AP:0.954|	R_ACC:0.9361|	F_ACC:0.7954|	Loss:0.3406
+002           |	ACC:0.869|	AP:0.957|	R_ACC:0.9395|	F_ACC:0.7991|	Loss:0.3308
+001           |	ACC:0.864|	AP:0.952|	R_ACC:0.9352|	F_ACC:0.7932|	Loss:0.3468
+average       |	ACC:0.868|	AP:0.955|	R_ACC:0.9384|	F_ACC:0.7974|	Loss:0.3366
+
+---2025_01_03_13_49_18|	VAL Model:ferretnet-b-max-7
+004           |	ACC:0.887|	AP:0.951|	R_ACC:0.8804|	F_ACC:0.8928|	Loss:0.3053
+003           |	ACC:0.882|	AP:0.952|	R_ACC:0.8773|	F_ACC:0.8861|	Loss:0.3083
+002           |	ACC:0.879|	AP:0.950|	R_ACC:0.8748|	F_ACC:0.8826|	Loss:0.3161
+001           |	ACC:0.875|	AP:0.948|	R_ACC:0.8694|	F_ACC:0.8801|	Loss:0.3247
+average       |	ACC:0.880|	AP:0.950|	R_ACC:0.8755|	F_ACC:0.8854|	Loss:0.3136
+
+---2025_01_03_13_58_31|	VAL Model:ferretnet-b-min-3
+004           |	ACC:0.902|	AP:0.965|	R_ACC:0.8682|	F_ACC:0.9365|	Loss:0.2553
+003           |	ACC:0.902|	AP:0.966|	R_ACC:0.8687|	F_ACC:0.9350|	Loss:0.2528
+002           |	ACC:0.894|	AP:0.963|	R_ACC:0.8567|	F_ACC:0.9310|	Loss:0.2704
+001           |	ACC:0.894|	AP:0.963|	R_ACC:0.8581|	F_ACC:0.9290|	Loss:0.2702
+average       |	ACC:0.898|	AP:0.964|	R_ACC:0.8629|	F_ACC:0.9329|	Loss:0.2622
+
+---2025_01_03_14_07_28|	VAL Model:ferretnet-b-min-5
+004           |	ACC:0.896|	AP:0.958|	R_ACC:0.9464|	F_ACC:0.8455|	Loss:0.3126
+003           |	ACC:0.892|	AP:0.955|	R_ACC:0.9475|	F_ACC:0.8370|	Loss:0.3248
+002           |	ACC:0.890|	AP:0.959|	R_ACC:0.9454|	F_ACC:0.8349|	Loss:0.3252
+001           |	ACC:0.892|	AP:0.956|	R_ACC:0.9438|	F_ACC:0.8403|	Loss:0.3205
+average       |	ACC:0.893|	AP:0.957|	R_ACC:0.9458|	F_ACC:0.8394|	Loss:0.3208
+
+---2025_01_03_14_16_27|	VAL Model:ferretnet-b-min-7
+004           |	ACC:0.914|	AP:0.963|	R_ACC:0.9254|	F_ACC:0.9019|	Loss:0.2795
+003           |	ACC:0.910|	AP:0.963|	R_ACC:0.9230|	F_ACC:0.8964|	Loss:0.2813
+002           |	ACC:0.909|	AP:0.964|	R_ACC:0.9230|	F_ACC:0.8954|	Loss:0.2805
+001           |	ACC:0.908|	AP:0.961|	R_ACC:0.9226|	F_ACC:0.8944|	Loss:0.2902
+average       |	ACC:0.910|	AP:0.963|	R_ACC:0.9235|	F_ACC:0.8970|	Loss:0.2829
+
+---2025_01_03_14_25_25|	VAL Model:ferretnet-b-avg-3
+004           |	ACC:0.924|	AP:0.969|	R_ACC:0.9265|	F_ACC:0.9225|	Loss:0.2144
+003           |	ACC:0.921|	AP:0.970|	R_ACC:0.9219|	F_ACC:0.9200|	Loss:0.2154
+002           |	ACC:0.923|	AP:0.967|	R_ACC:0.9230|	F_ACC:0.9223|	Loss:0.2248
+001           |	ACC:0.919|	AP:0.966|	R_ACC:0.9226|	F_ACC:0.9154|	Loss:0.2266
+average       |	ACC:0.922|	AP:0.968|	R_ACC:0.9235|	F_ACC:0.9201|	Loss:0.2203
+
+---2025_01_03_14_34_25|	VAL Model:ferretnet-b-avg-5
+004           |	ACC:0.941|	AP:0.977|	R_ACC:0.9393|	F_ACC:0.9434|	Loss:0.1672
+003           |	ACC:0.938|	AP:0.977|	R_ACC:0.9353|	F_ACC:0.9410|	Loss:0.1690
+002           |	ACC:0.941|	AP:0.978|	R_ACC:0.9384|	F_ACC:0.9430|	Loss:0.1670
+001           |	ACC:0.939|	AP:0.978|	R_ACC:0.9395|	F_ACC:0.9380|	Loss:0.1686
+average       |	ACC:0.940|	AP:0.978|	R_ACC:0.9381|	F_ACC:0.9413|	Loss:0.1679
+
+---2025_01_03_14_43_44|	VAL Model:ferretnet-b-avg-7
+004           |	ACC:0.912|	AP:0.972|	R_ACC:0.9489|	F_ACC:0.8761|	Loss:0.2406
+003           |	ACC:0.911|	AP:0.975|	R_ACC:0.9484|	F_ACC:0.8732|	Loss:0.2341
+002           |	ACC:0.911|	AP:0.974|	R_ACC:0.9492|	F_ACC:0.8734|	Loss:0.2372
+001           |	ACC:0.910|	AP:0.973|	R_ACC:0.9481|	F_ACC:0.8715|	Loss:0.2393
+average       |	ACC:0.911|	AP:0.974|	R_ACC:0.9486|	F_ACC:0.8736|	Loss:0.2378
+
+---2025_01_03_14_52_49|	VAL Model:ferretnet-b-origin
+004           |	ACC:0.906|	AP:0.952|	R_ACC:0.9174|	F_ACC:0.8949|	Loss:0.2542
+003           |	ACC:0.904|	AP:0.954|	R_ACC:0.9158|	F_ACC:0.8927|	Loss:0.2498
+002           |	ACC:0.903|	AP:0.953|	R_ACC:0.9142|	F_ACC:0.8916|	Loss:0.2496
+001           |	ACC:0.905|	AP:0.952|	R_ACC:0.9168|	F_ACC:0.8930|	Loss:0.2494
+average       |	ACC:0.905|	AP:0.953|	R_ACC:0.9160|	F_ACC:0.8930|	Loss:0.2508
+
+---2025_01_10_17_49_29|	VAL Model:resnet-50-origin
+004           |	ACC:0.722|	AP:0.759|	R_ACC:0.5982|	F_ACC:0.8454|	Loss:1.1612
+003           |	ACC:0.721|	AP:0.758|	R_ACC:0.5989|	F_ACC:0.8431|	Loss:1.1669
+002           |	ACC:0.717|	AP:0.759|	R_ACC:0.5952|	F_ACC:0.8390|	Loss:1.1873
+001           |	ACC:0.716|	AP:0.762|	R_ACC:0.5960|	F_ACC:0.8361|	Loss:1.1702
+average       |	ACC:0.719|	AP:0.760|	R_ACC:0.5971|	F_ACC:0.8409|	Loss:1.1714
+
+---2025_01_10_17_49_29|	VAL Model:resnet-50-median-3
+004           |	ACC:0.749|	AP:0.791|	R_ACC:0.7602|	F_ACC:0.7372|	Loss:0.9291
+003           |	ACC:0.738|	AP:0.786|	R_ACC:0.7513|	F_ACC:0.7254|	Loss:0.9533
+002           |	ACC:0.741|	AP:0.783|	R_ACC:0.7556|	F_ACC:0.7268|	Loss:0.9527
+001           |	ACC:0.748|	AP:0.789|	R_ACC:0.7579|	F_ACC:0.7387|	Loss:0.9402
+average       |	ACC:0.744|	AP:0.787|	R_ACC:0.7563|	F_ACC:0.7320|	Loss:0.9438
+
+---2025_01_10_18_02_35|	VAL Model:xception-origin
+004           |	ACC:0.943|	AP:0.977|	R_ACC:0.9409|	F_ACC:0.9450|	Loss:0.1705
+003           |	ACC:0.943|	AP:0.976|	R_ACC:0.9393|	F_ACC:0.9466|	Loss:0.1743
+002           |	ACC:0.945|	AP:0.977|	R_ACC:0.9442|	F_ACC:0.9459|	Loss:0.1632
+001           |	ACC:0.945|	AP:0.976|	R_ACC:0.9435|	F_ACC:0.9458|	Loss:0.1677
+average       |	ACC:0.944|	AP:0.977|	R_ACC:0.9420|	F_ACC:0.9458|	Loss:0.1689
+
+---2025_01_10_18_02_48|	VAL Model:xception-median-3
+004           |	ACC:0.944|	AP:0.983|	R_ACC:0.9237|	F_ACC:0.9641|	Loss:0.1858
+003           |	ACC:0.941|	AP:0.982|	R_ACC:0.9217|	F_ACC:0.9601|	Loss:0.1967
+002           |	ACC:0.938|	AP:0.982|	R_ACC:0.9199|	F_ACC:0.9569|	Loss:0.2033
+001           |	ACC:0.941|	AP:0.982|	R_ACC:0.9204|	F_ACC:0.9622|	Loss:0.1950
+average       |	ACC:0.941|	AP:0.982|	R_ACC:0.9214|	F_ACC:0.9608|	Loss:0.1952
+

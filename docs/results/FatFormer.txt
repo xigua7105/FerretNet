@@ -1,0 +1,40 @@
+---2025_01_10_21_22_39|	VAL Model:pretrained/fatformer_4class_ckpt.pth
+SD-3_5        |	ACC:0.819|	AP:0.891|	R_ACC:0.9288|	F_ACC:0.7086|	Loss:0.5795
+proteusV-0_3  |	ACC:0.939|	AP:0.976|	R_ACC:0.9284|	F_ACC:0.9500|	Loss:0.5338
+SDXL-Turbo    |	ACC:0.587|	AP:0.653|	R_ACC:0.9206|	F_ACC:0.2540|	Loss:0.6681
+openjourney   |	ACC:0.588|	AP:0.654|	R_ACC:0.9244|	F_ACC:0.2512|	Loss:0.6677
+YiffyMix      |	ACC:0.809|	AP:0.899|	R_ACC:0.9284|	F_ACC:0.6892|	Loss:0.5825
+RealVisXL-4_0 |	ACC:0.490|	AP:0.417|	R_ACC:0.9314|	F_ACC:0.0492|	Loss:0.7043
+average       |	ACC:0.705|	AP:0.748|	R_ACC:0.9270|	F_ACC:0.4837|	Loss:0.6226
+
+---2025_01_10_21_59_47|	VAL Model:pretrained/fatformer_4class_ckpt.pth
+004           |	ACC:0.808|	AP:0.907|	R_ACC:0.8822|	F_ACC:0.7329|	Loss:0.5888
+003           |	ACC:0.801|	AP:0.903|	R_ACC:0.8809|	F_ACC:0.7206|	Loss:0.5915
+002           |	ACC:0.805|	AP:0.908|	R_ACC:0.8889|	F_ACC:0.7206|	Loss:0.5896
+001           |	ACC:0.804|	AP:0.907|	R_ACC:0.8848|	F_ACC:0.7229|	Loss:0.5902
+average       |	ACC:0.804|	AP:0.906|	R_ACC:0.8842|	F_ACC:0.7243|	Loss:0.5900
+
+---2025_01_10_22_25_47|	VAL Model:pretrained/fatformer_4class_ckpt.pth
+stylegan      |	ACC:0.971|	AP:0.998|	R_ACC:1.0000|	F_ACC:0.9429|	Loss:0.5130
+biggan        |	ACC:0.995|	AP:1.000|	R_ACC:0.9910|	F_ACC:0.9990|	Loss:0.5048
+cyclegan      |	ACC:0.993|	AP:1.000|	R_ACC:0.9864|	F_ACC:1.0000|	Loss:0.5040
+gaugan        |	ACC:0.994|	AP:1.000|	R_ACC:0.9884|	F_ACC:0.9998|	Loss:0.5060
+stylegan2     |	ACC:0.988|	AP:0.999|	R_ACC:0.9997|	F_ACC:0.9762|	Loss:0.5075
+progan        |	ACC:0.999|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9978|	Loss:0.5036
+stargan       |	ACC:0.997|	AP:1.000|	R_ACC:0.9950|	F_ACC:1.0000|	Loss:0.5032
+deepfake      |	ACC:0.932|	AP:0.980|	R_ACC:0.9945|	F_ACC:0.8699|	Loss:0.5281
+average       |	ACC:0.984|	AP:0.997|	R_ACC:0.9944|	F_ACC:0.9732|	Loss:0.5088
+
+---2025_01_10_22_35_47|	VAL Model:pretrained/fatformer_4class_ckpt.pth
+vqdiffusion   |	ACC:1.000|	AP:1.000|	R_ACC:1.0000|	F_ACC:1.0000|	Loss:0.4988
+ldm_200_cfg   |	ACC:0.949|	AP:0.992|	R_ACC:0.9930|	F_ACC:0.9040|	Loss:0.5208
+glide_100_27  |	ACC:0.943|	AP:0.993|	R_ACC:0.9930|	F_ACC:0.8930|	Loss:0.5199
+guided        |	ACC:0.759|	AP:0.919|	R_ACC:0.9790|	F_ACC:0.5400|	Loss:0.5930
+ldm_100       |	ACC:0.986|	AP:0.999|	R_ACC:0.9930|	F_ACC:0.9790|	Loss:0.5042
+glide_100_10  |	ACC:0.942|	AP:0.993|	R_ACC:0.9930|	F_ACC:0.8900|	Loss:0.5206
+pndm          |	ACC:0.993|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9850|	Loss:0.5015
+glide_50_27   |	ACC:0.947|	AP:0.995|	R_ACC:0.9930|	F_ACC:0.9000|	Loss:0.5204
+dalle         |	ACC:0.987|	AP:0.998|	R_ACC:0.9930|	F_ACC:0.9810|	Loss:0.5041
+ldm_200       |	ACC:0.986|	AP:0.998|	R_ACC:0.9930|	F_ACC:0.9780|	Loss:0.5046
+average       |	ACC:0.949|	AP:0.989|	R_ACC:0.9930|	F_ACC:0.9050|	Loss:0.5188
+

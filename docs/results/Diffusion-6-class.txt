@@ -1,0 +1,298 @@
+---2025_01_03_11_48_01|	VAL Model:ferretnet-b-median-3
+vqdiffusion   |	ACC:0.999|	AP:1.000|	R_ACC:0.9980|	F_ACC:1.0000|	Loss:0.0020
+ldm_200_cfg   |	ACC:0.985|	AP:0.999|	R_ACC:0.9780|	F_ACC:0.9910|	Loss:0.0504
+glide_100_27  |	ACC:0.973|	AP:0.997|	R_ACC:0.9780|	F_ACC:0.9670|	Loss:0.0722
+guided        |	ACC:0.921|	AP:0.986|	R_ACC:0.9690|	F_ACC:0.8730|	Loss:0.2218
+ldm_100       |	ACC:0.988|	AP:1.000|	R_ACC:0.9780|	F_ACC:0.9970|	Loss:0.0305
+glide_100_10  |	ACC:0.979|	AP:0.999|	R_ACC:0.9780|	F_ACC:0.9790|	Loss:0.0503
+pndm          |	ACC:0.969|	AP:1.000|	R_ACC:0.9980|	F_ACC:0.9400|	Loss:0.0953
+glide_50_27   |	ACC:0.972|	AP:0.997|	R_ACC:0.9780|	F_ACC:0.9660|	Loss:0.0781
+dalle         |	ACC:0.914|	AP:0.982|	R_ACC:0.9780|	F_ACC:0.8500|	Loss:0.3451
+ldm_200       |	ACC:0.988|	AP:1.000|	R_ACC:0.9780|	F_ACC:0.9970|	Loss:0.0312
+average       |	ACC:0.969|	AP:0.996|	R_ACC:0.9811|	F_ACC:0.9560|	Loss:0.0977
+
+---2025_01_03_11_49_42|	VAL Model:ferretnet-b-median-5
+vqdiffusion   |	ACC:0.999|	AP:1.000|	R_ACC:0.9970|	F_ACC:1.0000|	Loss:0.0038
+ldm_200_cfg   |	ACC:0.985|	AP:0.998|	R_ACC:0.9940|	F_ACC:0.9760|	Loss:0.0536
+glide_100_27  |	ACC:0.950|	AP:0.994|	R_ACC:0.9940|	F_ACC:0.9060|	Loss:0.1819
+guided        |	ACC:0.895|	AP:0.966|	R_ACC:0.9250|	F_ACC:0.8650|	Loss:0.3026
+ldm_100       |	ACC:0.991|	AP:0.998|	R_ACC:0.9940|	F_ACC:0.9870|	Loss:0.0323
+glide_100_10  |	ACC:0.981|	AP:0.998|	R_ACC:0.9940|	F_ACC:0.9680|	Loss:0.0668
+pndm          |	ACC:0.900|	AP:0.996|	R_ACC:0.9970|	F_ACC:0.8030|	Loss:0.2662
+glide_50_27   |	ACC:0.961|	AP:0.995|	R_ACC:0.9940|	F_ACC:0.9270|	Loss:0.1491
+dalle         |	ACC:0.930|	AP:0.991|	R_ACC:0.9940|	F_ACC:0.8660|	Loss:0.2316
+ldm_200       |	ACC:0.989|	AP:0.998|	R_ACC:0.9940|	F_ACC:0.9830|	Loss:0.0386
+average       |	ACC:0.958|	AP:0.993|	R_ACC:0.9877|	F_ACC:0.9281|	Loss:0.1327
+
+---2025_01_03_11_51_33|	VAL Model:ferretnet-b-median-7
+vqdiffusion   |	ACC:0.997|	AP:1.000|	R_ACC:0.9940|	F_ACC:0.9990|	Loss:0.0215
+ldm_200_cfg   |	ACC:0.944|	AP:0.991|	R_ACC:0.9840|	F_ACC:0.9030|	Loss:0.1692
+glide_100_27  |	ACC:0.917|	AP:0.977|	R_ACC:0.9840|	F_ACC:0.8500|	Loss:0.4015
+guided        |	ACC:0.766|	AP:0.891|	R_ACC:0.9490|	F_ACC:0.5840|	Loss:1.1285
+ldm_100       |	ACC:0.944|	AP:0.993|	R_ACC:0.9840|	F_ACC:0.9040|	Loss:0.1505
+glide_100_10  |	ACC:0.952|	AP:0.986|	R_ACC:0.9840|	F_ACC:0.9190|	Loss:0.2173
+pndm          |	ACC:0.524|	AP:0.683|	R_ACC:0.9940|	F_ACC:0.0550|	Loss:2.6526
+glide_50_27   |	ACC:0.926|	AP:0.976|	R_ACC:0.9840|	F_ACC:0.8680|	Loss:0.4000
+dalle         |	ACC:0.618|	AP:0.873|	R_ACC:0.9840|	F_ACC:0.2520|	Loss:1.5863
+ldm_200       |	ACC:0.932|	AP:0.991|	R_ACC:0.9840|	F_ACC:0.8800|	Loss:0.1674
+average       |	ACC:0.852|	AP:0.936|	R_ACC:0.9825|	F_ACC:0.7214|	Loss:0.6895
+
+---2025_01_03_11_53_03|	VAL Model:ferretnet-b-retmed-3
+vqdiffusion   |	ACC:0.941|	AP:1.000|	R_ACC:0.8810|	F_ACC:1.0000|	Loss:0.1619
+ldm_200_cfg   |	ACC:0.938|	AP:0.989|	R_ACC:0.8840|	F_ACC:0.9920|	Loss:0.2077
+glide_100_27  |	ACC:0.852|	AP:0.936|	R_ACC:0.8840|	F_ACC:0.8200|	Loss:0.5598
+guided        |	ACC:0.912|	AP:0.976|	R_ACC:0.9690|	F_ACC:0.8550|	Loss:0.2582
+ldm_100       |	ACC:0.939|	AP:0.990|	R_ACC:0.8840|	F_ACC:0.9940|	Loss:0.1986
+glide_100_10  |	ACC:0.891|	AP:0.962|	R_ACC:0.8840|	F_ACC:0.8980|	Loss:0.3794
+pndm          |	ACC:0.939|	AP:0.994|	R_ACC:0.8810|	F_ACC:0.9960|	Loss:0.1700
+glide_50_27   |	ACC:0.874|	AP:0.950|	R_ACC:0.8840|	F_ACC:0.8640|	Loss:0.4794
+dalle         |	ACC:0.920|	AP:0.976|	R_ACC:0.8840|	F_ACC:0.9570|	Loss:0.2567
+ldm_200       |	ACC:0.940|	AP:0.988|	R_ACC:0.8840|	F_ACC:0.9960|	Loss:0.2011
+average       |	ACC:0.915|	AP:0.976|	R_ACC:0.8919|	F_ACC:0.9372|	Loss:0.2873
+
+---2025_01_03_11_54_38|	VAL Model:ferretnet-b-retmed-5
+vqdiffusion   |	ACC:0.998|	AP:1.000|	R_ACC:0.9960|	F_ACC:1.0000|	Loss:0.0078
+ldm_200_cfg   |	ACC:0.971|	AP:0.997|	R_ACC:0.9930|	F_ACC:0.9490|	Loss:0.0841
+glide_100_27  |	ACC:0.919|	AP:0.983|	R_ACC:0.9930|	F_ACC:0.8460|	Loss:0.3200
+guided        |	ACC:0.840|	AP:0.926|	R_ACC:0.9200|	F_ACC:0.7600|	Loss:0.7130
+ldm_100       |	ACC:0.977|	AP:0.997|	R_ACC:0.9930|	F_ACC:0.9610|	Loss:0.0718
+glide_100_10  |	ACC:0.954|	AP:0.989|	R_ACC:0.9930|	F_ACC:0.9140|	Loss:0.1907
+pndm          |	ACC:0.783|	AP:0.974|	R_ACC:0.9960|	F_ACC:0.5700|	Loss:0.6557
+glide_50_27   |	ACC:0.939|	AP:0.984|	R_ACC:0.9930|	F_ACC:0.8840|	Loss:0.2896
+dalle         |	ACC:0.796|	AP:0.972|	R_ACC:0.9930|	F_ACC:0.5990|	Loss:0.5756
+ldm_200       |	ACC:0.969|	AP:0.997|	R_ACC:0.9930|	F_ACC:0.9450|	Loss:0.0857
+average       |	ACC:0.915|	AP:0.982|	R_ACC:0.9863|	F_ACC:0.8428|	Loss:0.2994
+
+---2025_01_03_11_56_31|	VAL Model:ferretnet-b-retmed-7
+vqdiffusion   |	ACC:0.991|	AP:1.000|	R_ACC:0.9810|	F_ACC:1.0000|	Loss:0.0246
+ldm_200_cfg   |	ACC:0.963|	AP:0.993|	R_ACC:0.9630|	F_ACC:0.9620|	Loss:0.1006
+glide_100_27  |	ACC:0.936|	AP:0.985|	R_ACC:0.9630|	F_ACC:0.9100|	Loss:0.2058
+guided        |	ACC:0.726|	AP:0.843|	R_ACC:0.7210|	F_ACC:0.7310|	Loss:0.8946
+ldm_100       |	ACC:0.959|	AP:0.990|	R_ACC:0.9630|	F_ACC:0.9550|	Loss:0.1165
+glide_100_10  |	ACC:0.952|	AP:0.990|	R_ACC:0.9630|	F_ACC:0.9410|	Loss:0.1441
+pndm          |	ACC:0.492|	AP:0.495|	R_ACC:0.9810|	F_ACC:0.0030|	Loss:2.9749
+glide_50_27   |	ACC:0.945|	AP:0.987|	R_ACC:0.9630|	F_ACC:0.9270|	Loss:0.1885
+dalle         |	ACC:0.841|	AP:0.956|	R_ACC:0.9630|	F_ACC:0.7190|	Loss:0.3929
+ldm_200       |	ACC:0.948|	AP:0.988|	R_ACC:0.9630|	F_ACC:0.9320|	Loss:0.1256
+average       |	ACC:0.875|	AP:0.923|	R_ACC:0.9424|	F_ACC:0.8080|	Loss:0.5168
+
+---2025_01_03_11_57_56|	VAL Model:ferretnet-b-excmed-3
+vqdiffusion   |	ACC:1.000|	AP:1.000|	R_ACC:1.0000|	F_ACC:1.0000|	Loss:0.0011
+ldm_200_cfg   |	ACC:0.983|	AP:0.999|	R_ACC:0.9970|	F_ACC:0.9690|	Loss:0.0514
+glide_100_27  |	ACC:0.920|	AP:0.984|	R_ACC:0.9970|	F_ACC:0.8440|	Loss:0.3957
+guided        |	ACC:0.871|	AP:0.963|	R_ACC:0.9620|	F_ACC:0.7790|	Loss:0.4267
+ldm_100       |	ACC:0.990|	AP:1.000|	R_ACC:0.9970|	F_ACC:0.9820|	Loss:0.0347
+glide_100_10  |	ACC:0.949|	AP:0.990|	R_ACC:0.9970|	F_ACC:0.9000|	Loss:0.2303
+pndm          |	ACC:0.986|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9720|	Loss:0.0531
+glide_50_27   |	ACC:0.940|	AP:0.985|	R_ACC:0.9970|	F_ACC:0.8830|	Loss:0.3223
+dalle         |	ACC:0.968|	AP:0.998|	R_ACC:0.9970|	F_ACC:0.9390|	Loss:0.0939
+ldm_200       |	ACC:0.984|	AP:0.999|	R_ACC:0.9970|	F_ACC:0.9700|	Loss:0.0448
+average       |	ACC:0.959|	AP:0.992|	R_ACC:0.9941|	F_ACC:0.9238|	Loss:0.1654
+
+---2025_01_03_11_59_24|	VAL Model:ferretnet-b-excmed-5
+vqdiffusion   |	ACC:0.999|	AP:1.000|	R_ACC:0.9970|	F_ACC:1.0000|	Loss:0.0073
+ldm_200_cfg   |	ACC:0.956|	AP:0.993|	R_ACC:0.9810|	F_ACC:0.9310|	Loss:0.1162
+glide_100_27  |	ACC:0.965|	AP:0.995|	R_ACC:0.9810|	F_ACC:0.9490|	Loss:0.1095
+guided        |	ACC:0.760|	AP:0.873|	R_ACC:0.8990|	F_ACC:0.6210|	Loss:1.0288
+ldm_100       |	ACC:0.953|	AP:0.992|	R_ACC:0.9810|	F_ACC:0.9250|	Loss:0.1291
+glide_100_10  |	ACC:0.973|	AP:0.994|	R_ACC:0.9810|	F_ACC:0.9640|	Loss:0.1058
+pndm          |	ACC:0.530|	AP:0.720|	R_ACC:0.9970|	F_ACC:0.0630|	Loss:2.6813
+glide_50_27   |	ACC:0.964|	AP:0.994|	R_ACC:0.9810|	F_ACC:0.9470|	Loss:0.1289
+dalle         |	ACC:0.762|	AP:0.948|	R_ACC:0.9810|	F_ACC:0.5430|	Loss:0.7498
+ldm_200       |	ACC:0.953|	AP:0.992|	R_ACC:0.9810|	F_ACC:0.9250|	Loss:0.1254
+average       |	ACC:0.881|	AP:0.950|	R_ACC:0.9760|	F_ACC:0.7868|	Loss:0.5182
+
+---2025_01_03_12_01_17|	VAL Model:ferretnet-b-excmed-7
+vqdiffusion   |	ACC:0.995|	AP:1.000|	R_ACC:0.9900|	F_ACC:1.0000|	Loss:0.0175
+ldm_200_cfg   |	ACC:0.940|	AP:0.984|	R_ACC:0.9660|	F_ACC:0.9140|	Loss:0.1639
+glide_100_27  |	ACC:0.936|	AP:0.985|	R_ACC:0.9660|	F_ACC:0.9060|	Loss:0.2231
+guided        |	ACC:0.859|	AP:0.942|	R_ACC:0.9030|	F_ACC:0.8150|	Loss:0.4767
+ldm_100       |	ACC:0.951|	AP:0.986|	R_ACC:0.9660|	F_ACC:0.9350|	Loss:0.1395
+glide_100_10  |	ACC:0.964|	AP:0.994|	R_ACC:0.9660|	F_ACC:0.9620|	Loss:0.0996
+pndm          |	ACC:0.783|	AP:0.970|	R_ACC:0.9900|	F_ACC:0.5770|	Loss:0.5594
+glide_50_27   |	ACC:0.938|	AP:0.983|	R_ACC:0.9660|	F_ACC:0.9090|	Loss:0.2461
+dalle         |	ACC:0.762|	AP:0.931|	R_ACC:0.9660|	F_ACC:0.5590|	Loss:0.6820
+ldm_200       |	ACC:0.942|	AP:0.985|	R_ACC:0.9660|	F_ACC:0.9180|	Loss:0.1503
+average       |	ACC:0.907|	AP:0.976|	R_ACC:0.9645|	F_ACC:0.8495|	Loss:0.2758
+
+---2025_01_03_12_02_28|	VAL Model:ferretnet-b-max-3
+vqdiffusion   |	ACC:0.999|	AP:1.000|	R_ACC:0.9970|	F_ACC:1.0000|	Loss:0.0108
+ldm_200_cfg   |	ACC:0.982|	AP:0.998|	R_ACC:0.9890|	F_ACC:0.9750|	Loss:0.0515
+glide_100_27  |	ACC:0.940|	AP:0.978|	R_ACC:0.9890|	F_ACC:0.8900|	Loss:0.2608
+guided        |	ACC:0.841|	AP:0.932|	R_ACC:0.8750|	F_ACC:0.8070|	Loss:0.4429
+ldm_100       |	ACC:0.985|	AP:0.998|	R_ACC:0.9890|	F_ACC:0.9800|	Loss:0.0522
+glide_100_10  |	ACC:0.962|	AP:0.986|	R_ACC:0.9890|	F_ACC:0.9340|	Loss:0.1787
+pndm          |	ACC:0.965|	AP:0.996|	R_ACC:0.9970|	F_ACC:0.9330|	Loss:0.0994
+glide_50_27   |	ACC:0.948|	AP:0.980|	R_ACC:0.9890|	F_ACC:0.9060|	Loss:0.2620
+dalle         |	ACC:0.978|	AP:0.997|	R_ACC:0.9890|	F_ACC:0.9660|	Loss:0.0661
+ldm_200       |	ACC:0.983|	AP:0.998|	R_ACC:0.9890|	F_ACC:0.9760|	Loss:0.0536
+average       |	ACC:0.958|	AP:0.986|	R_ACC:0.9792|	F_ACC:0.9367|	Loss:0.1478
+
+---2025_01_03_12_03_45|	VAL Model:ferretnet-b-max-5
+vqdiffusion   |	ACC:0.999|	AP:1.000|	R_ACC:0.9990|	F_ACC:0.9990|	Loss:0.0053
+ldm_200_cfg   |	ACC:0.922|	AP:0.983|	R_ACC:0.9590|	F_ACC:0.8860|	Loss:0.1912
+glide_100_27  |	ACC:0.949|	AP:0.989|	R_ACC:0.9590|	F_ACC:0.9380|	Loss:0.1632
+guided        |	ACC:0.836|	AP:0.925|	R_ACC:0.8850|	F_ACC:0.7870|	Loss:0.5707
+ldm_100       |	ACC:0.933|	AP:0.986|	R_ACC:0.9590|	F_ACC:0.9080|	Loss:0.1644
+glide_100_10  |	ACC:0.963|	AP:0.993|	R_ACC:0.9590|	F_ACC:0.9670|	Loss:0.1109
+pndm          |	ACC:0.961|	AP:0.999|	R_ACC:0.9990|	F_ACC:0.9230|	Loss:0.1078
+glide_50_27   |	ACC:0.952|	AP:0.990|	R_ACC:0.9590|	F_ACC:0.9450|	Loss:0.1509
+dalle         |	ACC:0.758|	AP:0.908|	R_ACC:0.9590|	F_ACC:0.5580|	Loss:0.7593
+ldm_200       |	ACC:0.935|	AP:0.987|	R_ACC:0.9590|	F_ACC:0.9110|	Loss:0.1569
+average       |	ACC:0.921|	AP:0.976|	R_ACC:0.9596|	F_ACC:0.8822|	Loss:0.2380
+
+---2025_01_03_12_05_09|	VAL Model:ferretnet-b-max-7
+vqdiffusion   |	ACC:1.000|	AP:1.000|	R_ACC:1.0000|	F_ACC:1.0000|	Loss:0.0035
+ldm_200_cfg   |	ACC:0.966|	AP:0.993|	R_ACC:0.9710|	F_ACC:0.9600|	Loss:0.0959
+glide_100_27  |	ACC:0.971|	AP:0.994|	R_ACC:0.9710|	F_ACC:0.9710|	Loss:0.0890
+guided        |	ACC:0.827|	AP:0.916|	R_ACC:0.7970|	F_ACC:0.8570|	Loss:0.5870
+ldm_100       |	ACC:0.971|	AP:0.994|	R_ACC:0.9710|	F_ACC:0.9710|	Loss:0.0753
+glide_100_10  |	ACC:0.974|	AP:0.995|	R_ACC:0.9710|	F_ACC:0.9770|	Loss:0.0862
+pndm          |	ACC:0.934|	AP:0.997|	R_ACC:1.0000|	F_ACC:0.8680|	Loss:0.1722
+glide_50_27   |	ACC:0.971|	AP:0.994|	R_ACC:0.9710|	F_ACC:0.9710|	Loss:0.1139
+dalle         |	ACC:0.962|	AP:0.991|	R_ACC:0.9710|	F_ACC:0.9530|	Loss:0.1076
+ldm_200       |	ACC:0.976|	AP:0.994|	R_ACC:0.9710|	F_ACC:0.9800|	Loss:0.0720
+average       |	ACC:0.955|	AP:0.987|	R_ACC:0.9594|	F_ACC:0.9508|	Loss:0.1403
+
+---2025_01_03_12_06_22|	VAL Model:ferretnet-b-min-3
+vqdiffusion   |	ACC:0.997|	AP:1.000|	R_ACC:0.9930|	F_ACC:1.0000|	Loss:0.0169
+ldm_200_cfg   |	ACC:0.968|	AP:0.997|	R_ACC:0.9880|	F_ACC:0.9470|	Loss:0.0743
+glide_100_27  |	ACC:0.928|	AP:0.982|	R_ACC:0.9880|	F_ACC:0.8680|	Loss:0.2565
+guided        |	ACC:0.833|	AP:0.924|	R_ACC:0.8870|	F_ACC:0.7780|	Loss:0.4541
+ldm_100       |	ACC:0.980|	AP:0.998|	R_ACC:0.9880|	F_ACC:0.9710|	Loss:0.0570
+glide_100_10  |	ACC:0.956|	AP:0.987|	R_ACC:0.9880|	F_ACC:0.9230|	Loss:0.1787
+pndm          |	ACC:0.960|	AP:0.994|	R_ACC:0.9930|	F_ACC:0.9270|	Loss:0.1204
+glide_50_27   |	ACC:0.940|	AP:0.984|	R_ACC:0.9880|	F_ACC:0.8910|	Loss:0.2483
+dalle         |	ACC:0.968|	AP:0.997|	R_ACC:0.9880|	F_ACC:0.9480|	Loss:0.0789
+ldm_200       |	ACC:0.980|	AP:0.998|	R_ACC:0.9880|	F_ACC:0.9710|	Loss:0.0520
+average       |	ACC:0.951|	AP:0.986|	R_ACC:0.9789|	F_ACC:0.9224|	Loss:0.1537
+
+---2025_01_03_12_07_40|	VAL Model:ferretnet-b-min-5
+vqdiffusion   |	ACC:1.000|	AP:1.000|	R_ACC:1.0000|	F_ACC:1.0000|	Loss:0.0009
+ldm_200_cfg   |	ACC:0.965|	AP:0.995|	R_ACC:0.9900|	F_ACC:0.9400|	Loss:0.1042
+glide_100_27  |	ACC:0.954|	AP:0.991|	R_ACC:0.9900|	F_ACC:0.9180|	Loss:0.1792
+guided        |	ACC:0.874|	AP:0.951|	R_ACC:0.9030|	F_ACC:0.8440|	Loss:0.4744
+ldm_100       |	ACC:0.970|	AP:0.996|	R_ACC:0.9900|	F_ACC:0.9500|	Loss:0.0833
+glide_100_10  |	ACC:0.979|	AP:0.995|	R_ACC:0.9900|	F_ACC:0.9680|	Loss:0.0922
+pndm          |	ACC:0.863|	AP:0.999|	R_ACC:1.0000|	F_ACC:0.7260|	Loss:0.4021
+glide_50_27   |	ACC:0.964|	AP:0.991|	R_ACC:0.9900|	F_ACC:0.9370|	Loss:0.1772
+dalle         |	ACC:0.792|	AP:0.960|	R_ACC:0.9900|	F_ACC:0.5940|	Loss:0.7347
+ldm_200       |	ACC:0.973|	AP:0.997|	R_ACC:0.9900|	F_ACC:0.9560|	Loss:0.0727
+average       |	ACC:0.933|	AP:0.988|	R_ACC:0.9833|	F_ACC:0.8833|	Loss:0.2321
+
+---2025_01_03_12_08_55|	VAL Model:ferretnet-b-min-7
+vqdiffusion   |	ACC:1.000|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9990|	Loss:0.0015
+ldm_200_cfg   |	ACC:0.966|	AP:0.996|	R_ACC:0.9860|	F_ACC:0.9460|	Loss:0.0915
+glide_100_27  |	ACC:0.894|	AP:0.984|	R_ACC:0.9860|	F_ACC:0.8030|	Loss:0.4128
+guided        |	ACC:0.853|	AP:0.938|	R_ACC:0.8780|	F_ACC:0.8270|	Loss:0.4764
+ldm_100       |	ACC:0.960|	AP:0.996|	R_ACC:0.9860|	F_ACC:0.9340|	Loss:0.1004
+glide_100_10  |	ACC:0.927|	AP:0.989|	R_ACC:0.9860|	F_ACC:0.8690|	Loss:0.2943
+pndm          |	ACC:0.836|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.6720|	Loss:0.4233
+glide_50_27   |	ACC:0.918|	AP:0.987|	R_ACC:0.9860|	F_ACC:0.8510|	Loss:0.3347
+dalle         |	ACC:0.878|	AP:0.986|	R_ACC:0.9860|	F_ACC:0.7710|	Loss:0.3529
+ldm_200       |	ACC:0.965|	AP:0.997|	R_ACC:0.9860|	F_ACC:0.9440|	Loss:0.0830
+average       |	ACC:0.920|	AP:0.987|	R_ACC:0.9780|	F_ACC:0.8616|	Loss:0.2571
+
+---2025_01_03_12_10_09|	VAL Model:ferretnet-b-avg-3
+vqdiffusion   |	ACC:1.000|	AP:1.000|	R_ACC:0.9990|	F_ACC:1.0000|	Loss:0.0031
+ldm_200_cfg   |	ACC:0.976|	AP:0.998|	R_ACC:0.9880|	F_ACC:0.9640|	Loss:0.0584
+glide_100_27  |	ACC:0.888|	AP:0.968|	R_ACC:0.9880|	F_ACC:0.7890|	Loss:0.4591
+guided        |	ACC:0.861|	AP:0.958|	R_ACC:0.9700|	F_ACC:0.7510|	Loss:0.4210
+ldm_100       |	ACC:0.986|	AP:0.999|	R_ACC:0.9880|	F_ACC:0.9830|	Loss:0.0426
+glide_100_10  |	ACC:0.931|	AP:0.983|	R_ACC:0.9880|	F_ACC:0.8740|	Loss:0.2619
+pndm          |	ACC:0.982|	AP:1.000|	R_ACC:0.9990|	F_ACC:0.9650|	Loss:0.0673
+glide_50_27   |	ACC:0.908|	AP:0.978|	R_ACC:0.9880|	F_ACC:0.8290|	Loss:0.3539
+dalle         |	ACC:0.968|	AP:0.997|	R_ACC:0.9880|	F_ACC:0.9470|	Loss:0.0827
+ldm_200       |	ACC:0.982|	AP:0.999|	R_ACC:0.9880|	F_ACC:0.9760|	Loss:0.0469
+average       |	ACC:0.948|	AP:0.988|	R_ACC:0.9884|	F_ACC:0.9078|	Loss:0.1797
+
+---2025_01_03_12_11_21|	VAL Model:ferretnet-b-avg-5
+vqdiffusion   |	ACC:1.000|	AP:1.000|	R_ACC:1.0000|	F_ACC:1.0000|	Loss:0.0016
+ldm_200_cfg   |	ACC:0.982|	AP:0.999|	R_ACC:0.9890|	F_ACC:0.9740|	Loss:0.0478
+glide_100_27  |	ACC:0.932|	AP:0.991|	R_ACC:0.9890|	F_ACC:0.8750|	Loss:0.1978
+guided        |	ACC:0.861|	AP:0.944|	R_ACC:0.9370|	F_ACC:0.7850|	Loss:0.4729
+ldm_100       |	ACC:0.988|	AP:0.999|	R_ACC:0.9890|	F_ACC:0.9860|	Loss:0.0377
+glide_100_10  |	ACC:0.969|	AP:0.996|	R_ACC:0.9890|	F_ACC:0.9490|	Loss:0.0925
+pndm          |	ACC:0.549|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.0990|	Loss:1.8901
+glide_50_27   |	ACC:0.949|	AP:0.993|	R_ACC:0.9890|	F_ACC:0.9090|	Loss:0.1635
+dalle         |	ACC:0.676|	AP:0.923|	R_ACC:0.9890|	F_ACC:0.3640|	Loss:1.1140
+ldm_200       |	ACC:0.986|	AP:0.999|	R_ACC:0.9890|	F_ACC:0.9820|	Loss:0.0408
+average       |	ACC:0.889|	AP:0.984|	R_ACC:0.9860|	F_ACC:0.7923|	Loss:0.4059
+
+---2025_01_03_12_12_34|	VAL Model:ferretnet-b-avg-7
+vqdiffusion   |	ACC:1.000|	AP:1.000|	R_ACC:1.0000|	F_ACC:1.0000|	Loss:0.0004
+ldm_200_cfg   |	ACC:0.975|	AP:0.996|	R_ACC:0.9900|	F_ACC:0.9600|	Loss:0.0816
+glide_100_27  |	ACC:0.884|	AP:0.956|	R_ACC:0.9900|	F_ACC:0.7790|	Loss:0.5024
+guided        |	ACC:0.835|	AP:0.954|	R_ACC:0.9650|	F_ACC:0.7040|	Loss:0.4547
+ldm_100       |	ACC:0.974|	AP:0.997|	R_ACC:0.9900|	F_ACC:0.9580|	Loss:0.0731
+glide_100_10  |	ACC:0.935|	AP:0.981|	R_ACC:0.9900|	F_ACC:0.8810|	Loss:0.2433
+pndm          |	ACC:0.686|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.3730|	Loss:0.6597
+glide_50_27   |	ACC:0.911|	AP:0.965|	R_ACC:0.9900|	F_ACC:0.8320|	Loss:0.4073
+dalle         |	ACC:0.953|	AP:0.994|	R_ACC:0.9900|	F_ACC:0.9160|	Loss:0.1348
+ldm_200       |	ACC:0.972|	AP:0.997|	R_ACC:0.9900|	F_ACC:0.9540|	Loss:0.0748
+average       |	ACC:0.913|	AP:0.984|	R_ACC:0.9895|	F_ACC:0.8357|	Loss:0.2632
+
+---2025_01_03_12_13_51|	VAL Model:ferretnet-b-origin
+vqdiffusion   |	ACC:0.953|	AP:0.999|	R_ACC:0.9970|	F_ACC:0.9090|	Loss:0.1275
+ldm_200_cfg   |	ACC:0.957|	AP:0.990|	R_ACC:0.9500|	F_ACC:0.9640|	Loss:0.1082
+glide_100_27  |	ACC:0.896|	AP:0.968|	R_ACC:0.9500|	F_ACC:0.8430|	Loss:0.3190
+guided        |	ACC:0.890|	AP:0.965|	R_ACC:0.9620|	F_ACC:0.8180|	Loss:0.3206
+ldm_100       |	ACC:0.963|	AP:0.991|	R_ACC:0.9500|	F_ACC:0.9750|	Loss:0.0924
+glide_100_10  |	ACC:0.938|	AP:0.987|	R_ACC:0.9500|	F_ACC:0.9260|	Loss:0.1595
+pndm          |	ACC:0.556|	AP:0.907|	R_ACC:0.9970|	F_ACC:0.1160|	Loss:1.5590
+glide_50_27   |	ACC:0.911|	AP:0.971|	R_ACC:0.9500|	F_ACC:0.8730|	Loss:0.2927
+dalle         |	ACC:0.753|	AP:0.911|	R_ACC:0.9500|	F_ACC:0.5570|	Loss:0.6386
+ldm_200       |	ACC:0.962|	AP:0.991|	R_ACC:0.9500|	F_ACC:0.9740|	Loss:0.0925
+average       |	ACC:0.878|	AP:0.968|	R_ACC:0.9606|	F_ACC:0.7955|	Loss:0.3710
+
+---2025_01_10_17_04_31|	VAL Model:resnet-50-origin
+vqdiffusion   |	ACC:0.988|	AP:1.000|	R_ACC:0.9880|	F_ACC:0.9880|	Loss:0.0283
+ldm_200_cfg   |	ACC:0.869|	AP:0.948|	R_ACC:0.8600|	F_ACC:0.8780|	Loss:0.3992
+glide_100_27  |	ACC:0.870|	AP:0.955|	R_ACC:0.8600|	F_ACC:0.8790|	Loss:0.4412
+guided        |	ACC:0.732|	AP:0.854|	R_ACC:0.5460|	F_ACC:0.9180|	Loss:1.2846
+ldm_100       |	ACC:0.878|	AP:0.954|	R_ACC:0.8600|	F_ACC:0.8970|	Loss:0.3881
+glide_100_10  |	ACC:0.884|	AP:0.965|	R_ACC:0.8600|	F_ACC:0.9080|	Loss:0.3646
+pndm          |	ACC:0.561|	AP:0.825|	R_ACC:0.9880|	F_ACC:0.1340|	Loss:2.1819
+glide_50_27   |	ACC:0.875|	AP:0.957|	R_ACC:0.8600|	F_ACC:0.8890|	Loss:0.4396
+dalle         |	ACC:0.723|	AP:0.828|	R_ACC:0.8600|	F_ACC:0.5860|	Loss:1.0520
+ldm_200       |	ACC:0.879|	AP:0.953|	R_ACC:0.8600|	F_ACC:0.8990|	Loss:0.3809
+average       |	ACC:0.826|	AP:0.924|	R_ACC:0.8542|	F_ACC:0.7976|	Loss:0.6960
+
+---2025_01_10_17_24_08|	VAL Model:resnet-50-median-3
+vqdiffusion   |	ACC:0.991|	AP:1.000|	R_ACC:0.9820|	F_ACC:1.0000|	Loss:0.0284
+ldm_200_cfg   |	ACC:0.897|	AP:0.972|	R_ACC:0.9640|	F_ACC:0.8300|	Loss:0.3394
+glide_100_27  |	ACC:0.924|	AP:0.972|	R_ACC:0.9640|	F_ACC:0.8850|	Loss:0.3428
+guided        |	ACC:0.611|	AP:0.614|	R_ACC:0.6580|	F_ACC:0.5630|	Loss:2.1789
+ldm_100       |	ACC:0.874|	AP:0.965|	R_ACC:0.9640|	F_ACC:0.7830|	Loss:0.3970
+glide_100_10  |	ACC:0.941|	AP:0.977|	R_ACC:0.9640|	F_ACC:0.9180|	Loss:0.2826
+pndm          |	ACC:0.718|	AP:0.884|	R_ACC:0.9820|	F_ACC:0.4540|	Loss:1.2722
+glide_50_27   |	ACC:0.935|	AP:0.973|	R_ACC:0.9640|	F_ACC:0.9070|	Loss:0.3520
+dalle         |	ACC:0.874|	AP:0.961|	R_ACC:0.9640|	F_ACC:0.7840|	Loss:0.4521
+ldm_200       |	ACC:0.854|	AP:0.958|	R_ACC:0.9640|	F_ACC:0.7440|	Loss:0.4655
+average       |	ACC:0.862|	AP:0.928|	R_ACC:0.9370|	F_ACC:0.7868|	Loss:0.6111
+
+---2025_01_10_17_39_51|	VAL Model:xception-origin
+vqdiffusion   |	ACC:1.000|	AP:1.000|	R_ACC:1.0000|	F_ACC:1.0000|	Loss:0.0025
+ldm_200_cfg   |	ACC:0.992|	AP:1.000|	R_ACC:0.9980|	F_ACC:0.9860|	Loss:0.0200
+glide_100_27  |	ACC:0.894|	AP:0.980|	R_ACC:0.9980|	F_ACC:0.7910|	Loss:0.4049
+guided        |	ACC:0.875|	AP:0.956|	R_ACC:0.9480|	F_ACC:0.8030|	Loss:0.3450
+ldm_100       |	ACC:0.993|	AP:1.000|	R_ACC:0.9980|	F_ACC:0.9880|	Loss:0.0242
+glide_100_10  |	ACC:0.904|	AP:0.987|	R_ACC:0.9980|	F_ACC:0.8110|	Loss:0.3151
+pndm          |	ACC:0.513|	AP:0.629|	R_ACC:1.0000|	F_ACC:0.0260|	Loss:2.6077
+glide_50_27   |	ACC:0.913|	AP:0.988|	R_ACC:0.9980|	F_ACC:0.8290|	Loss:0.2815
+dalle         |	ACC:0.919|	AP:0.997|	R_ACC:0.9980|	F_ACC:0.8400|	Loss:0.1807
+ldm_200       |	ACC:0.993|	AP:1.000|	R_ACC:0.9980|	F_ACC:0.9870|	Loss:0.0198
+average       |	ACC:0.900|	AP:0.954|	R_ACC:0.9934|	F_ACC:0.8061|	Loss:0.4201
+
+---2025_01_10_17_41_59|	VAL Model:xception-median-3
+vqdiffusion   |	ACC:1.000|	AP:1.000|	R_ACC:0.9990|	F_ACC:1.0000|	Loss:0.0027
+ldm_200_cfg   |	ACC:0.986|	AP:0.999|	R_ACC:0.9960|	F_ACC:0.9750|	Loss:0.0497
+glide_100_27  |	ACC:0.967|	AP:0.993|	R_ACC:0.9960|	F_ACC:0.9380|	Loss:0.1467
+guided        |	ACC:0.848|	AP:0.929|	R_ACC:0.8570|	F_ACC:0.8390|	Loss:0.5938
+ldm_100       |	ACC:0.992|	AP:1.000|	R_ACC:0.9960|	F_ACC:0.9880|	Loss:0.0222
+glide_100_10  |	ACC:0.976|	AP:0.994|	R_ACC:0.9960|	F_ACC:0.9550|	Loss:0.1087
+pndm          |	ACC:0.988|	AP:0.999|	R_ACC:0.9990|	F_ACC:0.9760|	Loss:0.0417
+glide_50_27   |	ACC:0.970|	AP:0.993|	R_ACC:0.9960|	F_ACC:0.9440|	Loss:0.1607
+dalle         |	ACC:0.947|	AP:0.995|	R_ACC:0.9960|	F_ACC:0.8970|	Loss:0.2054
+ldm_200       |	ACC:0.988|	AP:0.999|	R_ACC:0.9960|	F_ACC:0.9790|	Loss:0.0401
+average       |	ACC:0.966|	AP:0.990|	R_ACC:0.9827|	F_ACC:0.9491|	Loss:0.1372

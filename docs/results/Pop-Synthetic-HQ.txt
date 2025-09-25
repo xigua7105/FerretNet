@@ -1,0 +1,206 @@
+---2025_01_03_11_54_12|	VAL Model:ferretnet-b-median-3
+SD-3_5        |	ACC:0.972|	AP:0.996|	R_ACC:0.9762|	F_ACC:0.9684|	Loss:0.0802
+proteusV-0_3  |	ACC:0.986|	AP:0.997|	R_ACC:0.9788|	F_ACC:0.9940|	Loss:0.0427
+SDXL-Turbo    |	ACC:0.989|	AP:1.000|	R_ACC:0.9796|	F_ACC:0.9976|	Loss:0.0348
+openjourney   |	ACC:0.984|	AP:0.997|	R_ACC:0.9774|	F_ACC:0.9900|	Loss:0.0496
+YiffyMix      |	ACC:0.978|	AP:0.997|	R_ACC:0.9768|	F_ACC:0.9794|	Loss:0.0683
+RealVisXL-4_0 |	ACC:0.988|	AP:0.999|	R_ACC:0.9764|	F_ACC:0.9990|	Loss:0.0348
+average       |	ACC:0.983|	AP:0.998|	R_ACC:0.9775|	F_ACC:0.9881|	Loss:0.0517
+
+---2025_01_03_12_01_04|	VAL Model:ferretnet-b-median-5
+SD-3_5        |	ACC:0.927|	AP:0.980|	R_ACC:0.9670|	F_ACC:0.8870|	Loss:0.1917
+proteusV-0_3  |	ACC:0.846|	AP:0.954|	R_ACC:0.9712|	F_ACC:0.7208|	Loss:0.3740
+SDXL-Turbo    |	ACC:0.953|	AP:0.988|	R_ACC:0.9660|	F_ACC:0.9400|	Loss:0.1253
+openjourney   |	ACC:0.830|	AP:0.956|	R_ACC:0.9706|	F_ACC:0.6898|	Loss:0.4158
+YiffyMix      |	ACC:0.976|	AP:0.995|	R_ACC:0.9696|	F_ACC:0.9830|	Loss:0.0860
+RealVisXL-4_0 |	ACC:0.933|	AP:0.970|	R_ACC:0.9664|	F_ACC:0.8996|	Loss:0.1782
+average       |	ACC:0.911|	AP:0.974|	R_ACC:0.9685|	F_ACC:0.8534|	Loss:0.2285
+
+---2025_01_03_12_08_18|	VAL Model:ferretnet-b-median-7
+SD-3_5        |	ACC:0.742|	AP:0.884|	R_ACC:0.9566|	F_ACC:0.5272|	Loss:1.0957
+proteusV-0_3  |	ACC:0.694|	AP:0.889|	R_ACC:0.9608|	F_ACC:0.4278|	Loss:0.7411
+SDXL-Turbo    |	ACC:0.852|	AP:0.959|	R_ACC:0.9602|	F_ACC:0.7430|	Loss:0.3962
+openjourney   |	ACC:0.661|	AP:0.853|	R_ACC:0.9610|	F_ACC:0.3606|	Loss:1.2335
+YiffyMix      |	ACC:0.965|	AP:0.993|	R_ACC:0.9570|	F_ACC:0.9726|	Loss:0.1163
+RealVisXL-4_0 |	ACC:0.802|	AP:0.939|	R_ACC:0.9566|	F_ACC:0.6482|	Loss:0.4555
+average       |	ACC:0.786|	AP:0.919|	R_ACC:0.9587|	F_ACC:0.6132|	Loss:0.6731
+
+---2025_01_03_12_15_35|	VAL Model:ferretnet-b-retmed-3
+SD-3_5        |	ACC:0.937|	AP:0.984|	R_ACC:0.9372|	F_ACC:0.9374|	Loss:0.1718
+proteusV-0_3  |	ACC:0.876|	AP:0.948|	R_ACC:0.9468|	F_ACC:0.8044|	Loss:0.3288
+SDXL-Turbo    |	ACC:0.949|	AP:0.983|	R_ACC:0.9460|	F_ACC:0.9528|	Loss:0.1536
+openjourney   |	ACC:0.949|	AP:0.981|	R_ACC:0.9496|	F_ACC:0.9486|	Loss:0.1536
+YiffyMix      |	ACC:0.962|	AP:0.992|	R_ACC:0.9444|	F_ACC:0.9800|	Loss:0.1295
+RealVisXL-4_0 |	ACC:0.963|	AP:0.989|	R_ACC:0.9476|	F_ACC:0.9774|	Loss:0.1253
+average       |	ACC:0.939|	AP:0.980|	R_ACC:0.9453|	F_ACC:0.9334|	Loss:0.1771
+
+---2025_01_03_12_22_20|	VAL Model:ferretnet-b-retmed-5
+SD-3_5        |	ACC:0.839|	AP:0.942|	R_ACC:0.9604|	F_ACC:0.7180|	Loss:0.5988
+proteusV-0_3  |	ACC:0.679|	AP:0.889|	R_ACC:0.9656|	F_ACC:0.3930|	Loss:0.7669
+SDXL-Turbo    |	ACC:0.915|	AP:0.979|	R_ACC:0.9594|	F_ACC:0.8710|	Loss:0.2187
+openjourney   |	ACC:0.781|	AP:0.928|	R_ACC:0.9592|	F_ACC:0.6030|	Loss:0.6062
+YiffyMix      |	ACC:0.971|	AP:0.995|	R_ACC:0.9594|	F_ACC:0.9816|	Loss:0.0881
+RealVisXL-4_0 |	ACC:0.930|	AP:0.980|	R_ACC:0.9600|	F_ACC:0.9010|	Loss:0.1719
+average       |	ACC:0.853|	AP:0.952|	R_ACC:0.9607|	F_ACC:0.7446|	Loss:0.4084
+
+---2025_01_03_12_29_14|	VAL Model:ferretnet-b-retmed-7
+SD-3_5        |	ACC:0.872|	AP:0.939|	R_ACC:0.8324|	F_ACC:0.9114|	Loss:0.3507
+proteusV-0_3  |	ACC:0.802|	AP:0.836|	R_ACC:0.8380|	F_ACC:0.7660|	Loss:0.4949
+SDXL-Turbo    |	ACC:0.895|	AP:0.968|	R_ACC:0.8410|	F_ACC:0.9496|	Loss:0.2913
+openjourney   |	ACC:0.770|	AP:0.840|	R_ACC:0.8354|	F_ACC:0.7054|	Loss:0.5762
+YiffyMix      |	ACC:0.910|	AP:0.994|	R_ACC:0.8288|	F_ACC:0.9904|	Loss:0.2586
+RealVisXL-4_0 |	ACC:0.875|	AP:0.934|	R_ACC:0.8360|	F_ACC:0.9140|	Loss:0.3387
+average       |	ACC:0.854|	AP:0.918|	R_ACC:0.8353|	F_ACC:0.8728|	Loss:0.3851
+
+---2025_01_03_12_36_06|	VAL Model:ferretnet-b-excmed-3
+SD-3_5        |	ACC:0.877|	AP:0.967|	R_ACC:0.9720|	F_ACC:0.7828|	Loss:0.3799
+proteusV-0_3  |	ACC:0.949|	AP:0.984|	R_ACC:0.9722|	F_ACC:0.9262|	Loss:0.1343
+SDXL-Turbo    |	ACC:0.976|	AP:0.996|	R_ACC:0.9748|	F_ACC:0.9766|	Loss:0.0699
+openjourney   |	ACC:0.942|	AP:0.983|	R_ACC:0.9692|	F_ACC:0.9140|	Loss:0.1655
+YiffyMix      |	ACC:0.961|	AP:0.989|	R_ACC:0.9730|	F_ACC:0.9480|	Loss:0.1245
+RealVisXL-4_0 |	ACC:0.973|	AP:0.994|	R_ACC:0.9706|	F_ACC:0.9758|	Loss:0.0786
+average       |	ACC:0.946|	AP:0.985|	R_ACC:0.9720|	F_ACC:0.9206|	Loss:0.1588
+
+---2025_01_03_12_42_57|	VAL Model:ferretnet-b-excmed-5
+SD-3_5        |	ACC:0.904|	AP:0.965|	R_ACC:0.9456|	F_ACC:0.8624|	Loss:0.2481
+proteusV-0_3  |	ACC:0.940|	AP:0.972|	R_ACC:0.9532|	F_ACC:0.9258|	Loss:0.1671
+SDXL-Turbo    |	ACC:0.968|	AP:0.995|	R_ACC:0.9516|	F_ACC:0.9836|	Loss:0.0873
+openjourney   |	ACC:0.821|	AP:0.935|	R_ACC:0.9482|	F_ACC:0.6946|	Loss:0.4190
+YiffyMix      |	ACC:0.962|	AP:0.994|	R_ACC:0.9484|	F_ACC:0.9760|	Loss:0.1037
+RealVisXL-4_0 |	ACC:0.965|	AP:0.986|	R_ACC:0.9478|	F_ACC:0.9824|	Loss:0.1059
+average       |	ACC:0.927|	AP:0.975|	R_ACC:0.9491|	F_ACC:0.9041|	Loss:0.1885
+
+---2025_01_03_12_49_52|	VAL Model:ferretnet-b-excmed-7
+SD-3_5        |	ACC:0.784|	AP:0.888|	R_ACC:0.9160|	F_ACC:0.6520|	Loss:0.6208
+proteusV-0_3  |	ACC:0.700|	AP:0.827|	R_ACC:0.9180|	F_ACC:0.4810|	Loss:0.7391
+SDXL-Turbo    |	ACC:0.853|	AP:0.934|	R_ACC:0.9174|	F_ACC:0.7876|	Loss:0.3970
+openjourney   |	ACC:0.705|	AP:0.842|	R_ACC:0.9214|	F_ACC:0.4892|	Loss:0.8385
+YiffyMix      |	ACC:0.933|	AP:0.980|	R_ACC:0.9086|	F_ACC:0.9580|	Loss:0.1940
+RealVisXL-4_0 |	ACC:0.780|	AP:0.876|	R_ACC:0.9180|	F_ACC:0.6430|	Loss:0.5460
+average       |	ACC:0.793|	AP:0.891|	R_ACC:0.9166|	F_ACC:0.6685|	Loss:0.5559
+
+---2025_01_03_12_56_25|	VAL Model:ferretnet-b-max-3
+SD-3_5        |	ACC:0.901|	AP:0.965|	R_ACC:0.9110|	F_ACC:0.8914|	Loss:0.2801
+proteusV-0_3  |	ACC:0.896|	AP:0.940|	R_ACC:0.9106|	F_ACC:0.8806|	Loss:0.2702
+SDXL-Turbo    |	ACC:0.938|	AP:0.982|	R_ACC:0.9034|	F_ACC:0.9716|	Loss:0.1707
+openjourney   |	ACC:0.933|	AP:0.978|	R_ACC:0.9072|	F_ACC:0.9588|	Loss:0.1877
+YiffyMix      |	ACC:0.944|	AP:0.988|	R_ACC:0.9076|	F_ACC:0.9808|	Loss:0.1539
+RealVisXL-4_0 |	ACC:0.914|	AP:0.962|	R_ACC:0.9076|	F_ACC:0.9208|	Loss:0.2250
+average       |	ACC:0.921|	AP:0.969|	R_ACC:0.9079|	F_ACC:0.9340|	Loss:0.2146
+
+---2025_01_03_13_02_54|	VAL Model:ferretnet-b-max-5
+SD-3_5        |	ACC:0.847|	AP:0.942|	R_ACC:0.9352|	F_ACC:0.7578|	Loss:0.4119
+proteusV-0_3  |	ACC:0.728|	AP:0.870|	R_ACC:0.9314|	F_ACC:0.5246|	Loss:0.7187
+SDXL-Turbo    |	ACC:0.827|	AP:0.930|	R_ACC:0.9362|	F_ACC:0.7180|	Loss:0.5120
+openjourney   |	ACC:0.743|	AP:0.882|	R_ACC:0.9314|	F_ACC:0.5550|	Loss:0.7751
+YiffyMix      |	ACC:0.944|	AP:0.986|	R_ACC:0.9314|	F_ACC:0.9564|	Loss:0.1603
+RealVisXL-4_0 |	ACC:0.676|	AP:0.832|	R_ACC:0.9346|	F_ACC:0.4174|	Loss:1.0452
+average       |	ACC:0.794|	AP:0.907|	R_ACC:0.9334|	F_ACC:0.6549|	Loss:0.6039
+
+---2025_01_03_13_09_32|	VAL Model:ferretnet-b-max-7
+SD-3_5        |	ACC:0.848|	AP:0.922|	R_ACC:0.8518|	F_ACC:0.8448|	Loss:0.4153
+proteusV-0_3  |	ACC:0.872|	AP:0.912|	R_ACC:0.8456|	F_ACC:0.8982|	Loss:0.3887
+SDXL-Turbo    |	ACC:0.867|	AP:0.930|	R_ACC:0.8384|	F_ACC:0.8954|	Loss:0.3986
+openjourney   |	ACC:0.767|	AP:0.845|	R_ACC:0.8432|	F_ACC:0.6906|	Loss:0.6986
+YiffyMix      |	ACC:0.904|	AP:0.981|	R_ACC:0.8362|	F_ACC:0.9714|	Loss:0.2788
+RealVisXL-4_0 |	ACC:0.786|	AP:0.859|	R_ACC:0.8398|	F_ACC:0.7318|	Loss:0.6458
+average       |	ACC:0.841|	AP:0.908|	R_ACC:0.8425|	F_ACC:0.8387|	Loss:0.4710
+
+---2025_01_03_13_16_06|	VAL Model:ferretnet-b-min-3
+SD-3_5        |	ACC:0.864|	AP:0.940|	R_ACC:0.8992|	F_ACC:0.8284|	Loss:0.3798
+proteusV-0_3  |	ACC:0.845|	AP:0.905|	R_ACC:0.8964|	F_ACC:0.7940|	Loss:0.3607
+SDXL-Turbo    |	ACC:0.925|	AP:0.979|	R_ACC:0.8872|	F_ACC:0.9636|	Loss:0.1921
+openjourney   |	ACC:0.896|	AP:0.958|	R_ACC:0.8858|	F_ACC:0.9064|	Loss:0.2638
+YiffyMix      |	ACC:0.925|	AP:0.978|	R_ACC:0.8950|	F_ACC:0.9554|	Loss:0.2009
+RealVisXL-4_0 |	ACC:0.884|	AP:0.944|	R_ACC:0.8930|	F_ACC:0.8756|	Loss:0.2868
+average       |	ACC:0.890|	AP:0.950|	R_ACC:0.8928|	F_ACC:0.8872|	Loss:0.2807
+
+---2025_01_03_13_22_40|	VAL Model:ferretnet-b-min-5
+SD-3_5        |	ACC:0.904|	AP:0.971|	R_ACC:0.9532|	F_ACC:0.8550|	Loss:0.3000
+proteusV-0_3  |	ACC:0.741|	AP:0.898|	R_ACC:0.9570|	F_ACC:0.5256|	Loss:0.7440
+SDXL-Turbo    |	ACC:0.879|	AP:0.958|	R_ACC:0.9500|	F_ACC:0.8074|	Loss:0.3684
+openjourney   |	ACC:0.798|	AP:0.921|	R_ACC:0.9530|	F_ACC:0.6436|	Loss:0.6359
+YiffyMix      |	ACC:0.957|	AP:0.989|	R_ACC:0.9478|	F_ACC:0.9662|	Loss:0.1288
+RealVisXL-4_0 |	ACC:0.704|	AP:0.873|	R_ACC:0.9482|	F_ACC:0.4596|	Loss:0.9274
+average       |	ACC:0.831|	AP:0.935|	R_ACC:0.9515|	F_ACC:0.7096|	Loss:0.5174
+
+---2025_01_03_13_29_18|	VAL Model:ferretnet-b-min-7
+SD-3_5        |	ACC:0.893|	AP:0.956|	R_ACC:0.9124|	F_ACC:0.8746|	Loss:0.3219
+proteusV-0_3  |	ACC:0.689|	AP:0.804|	R_ACC:0.9066|	F_ACC:0.4714|	Loss:1.1513
+SDXL-Turbo    |	ACC:0.877|	AP:0.944|	R_ACC:0.9034|	F_ACC:0.8516|	Loss:0.3789
+openjourney   |	ACC:0.814|	AP:0.891|	R_ACC:0.9082|	F_ACC:0.7198|	Loss:0.6262
+YiffyMix      |	ACC:0.945|	AP:0.992|	R_ACC:0.9042|	F_ACC:0.9858|	Loss:0.1828
+RealVisXL-4_0 |	ACC:0.654|	AP:0.768|	R_ACC:0.9066|	F_ACC:0.4010|	Loss:1.2865
+average       |	ACC:0.812|	AP:0.892|	R_ACC:0.9069|	F_ACC:0.7174|	Loss:0.6580
+
+---2025_01_03_13_35_49|	VAL Model:ferretnet-b-avg-3
+SD-3_5        |	ACC:0.824|	AP:0.926|	R_ACC:0.9536|	F_ACC:0.6938|	Loss:0.5902
+proteusV-0_3  |	ACC:0.845|	AP:0.935|	R_ACC:0.9554|	F_ACC:0.7350|	Loss:0.3555
+SDXL-Turbo    |	ACC:0.952|	AP:0.981|	R_ACC:0.9512|	F_ACC:0.9528|	Loss:0.1359
+openjourney   |	ACC:0.923|	AP:0.969|	R_ACC:0.9554|	F_ACC:0.8900|	Loss:0.2116
+YiffyMix      |	ACC:0.963|	AP:0.988|	R_ACC:0.9542|	F_ACC:0.9710|	Loss:0.1113
+RealVisXL-4_0 |	ACC:0.919|	AP:0.968|	R_ACC:0.9558|	F_ACC:0.8824|	Loss:0.2062
+average       |	ACC:0.904|	AP:0.961|	R_ACC:0.9543|	F_ACC:0.8542|	Loss:0.2685
+
+---2025_01_03_13_42_19|	VAL Model:ferretnet-b-avg-5
+SD-3_5        |	ACC:0.882|	AP:0.962|	R_ACC:0.9526|	F_ACC:0.8124|	Loss:0.3094
+proteusV-0_3  |	ACC:0.756|	AP:0.898|	R_ACC:0.9536|	F_ACC:0.5592|	Loss:0.5266
+SDXL-Turbo    |	ACC:0.937|	AP:0.973|	R_ACC:0.9484|	F_ACC:0.9254|	Loss:0.1713
+openjourney   |	ACC:0.735|	AP:0.891|	R_ACC:0.9514|	F_ACC:0.5184|	Loss:0.7798
+YiffyMix      |	ACC:0.968|	AP:0.995|	R_ACC:0.9488|	F_ACC:0.9880|	Loss:0.0904
+RealVisXL-4_0 |	ACC:0.794|	AP:0.915|	R_ACC:0.9494|	F_ACC:0.6382|	Loss:0.5050
+average       |	ACC:0.845|	AP:0.939|	R_ACC:0.9507|	F_ACC:0.7403|	Loss:0.3971
+
+---2025_01_03_13_48_51|	VAL Model:ferretnet-b-avg-7
+SD-3_5        |	ACC:0.874|	AP:0.962|	R_ACC:0.9622|	F_ACC:0.7858|	Loss:0.4032
+proteusV-0_3  |	ACC:0.752|	AP:0.928|	R_ACC:0.9666|	F_ACC:0.5374|	Loss:0.5514
+SDXL-Turbo    |	ACC:0.936|	AP:0.986|	R_ACC:0.9636|	F_ACC:0.9088|	Loss:0.1585
+openjourney   |	ACC:0.880|	AP:0.973|	R_ACC:0.9670|	F_ACC:0.7926|	Loss:0.2895
+YiffyMix      |	ACC:0.971|	AP:0.997|	R_ACC:0.9630|	F_ACC:0.9782|	Loss:0.0784
+RealVisXL-4_0 |	ACC:0.877|	AP:0.970|	R_ACC:0.9650|	F_ACC:0.7882|	Loss:0.2865
+average       |	ACC:0.882|	AP:0.969|	R_ACC:0.9646|	F_ACC:0.7985|	Loss:0.2946
+
+---2025_01_03_13_55_20|	VAL Model:ferretnet-b-origin
+SD-3_5        |	ACC:0.804|	AP:0.917|	R_ACC:0.9450|	F_ACC:0.6630|	Loss:0.5263
+proteusV-0_3  |	ACC:0.815|	AP:0.917|	R_ACC:0.9436|	F_ACC:0.6866|	Loss:0.4556
+SDXL-Turbo    |	ACC:0.876|	AP:0.933|	R_ACC:0.9424|	F_ACC:0.8100|	Loss:0.3195
+openjourney   |	ACC:0.778|	AP:0.895|	R_ACC:0.9450|	F_ACC:0.6118|	Loss:0.6660
+YiffyMix      |	ACC:0.969|	AP:0.994|	R_ACC:0.9474|	F_ACC:0.9910|	Loss:0.0922
+RealVisXL-4_0 |	ACC:0.830|	AP:0.919|	R_ACC:0.9496|	F_ACC:0.7104|	Loss:0.4150
+average       |	ACC:0.845|	AP:0.929|	R_ACC:0.9455|	F_ACC:0.7455|	Loss:0.4125
+
+---2025_01_10_17_27_24|	VAL Model:resnet-50-origin
+SD-3_5        |	ACC:0.716|	AP:0.765|	R_ACC:0.5316|	F_ACC:0.9000|	Loss:1.2178
+proteusV-0_3  |	ACC:0.477|	AP:0.455|	R_ACC:0.5394|	F_ACC:0.4146|	Loss:2.3394
+SDXL-Turbo    |	ACC:0.700|	AP:0.728|	R_ACC:0.5374|	F_ACC:0.8622|	Loss:1.3199
+openjourney   |	ACC:0.667|	AP:0.660|	R_ACC:0.5340|	F_ACC:0.7998|	Loss:1.4483
+YiffyMix      |	ACC:0.757|	AP:0.883|	R_ACC:0.5444|	F_ACC:0.9690|	Loss:1.1232
+RealVisXL-4_0 |	ACC:0.462|	AP:0.454|	R_ACC:0.5410|	F_ACC:0.3834|	Loss:2.5020
+average       |	ACC:0.630|	AP:0.658|	R_ACC:0.5380|	F_ACC:0.7215|	Loss:1.6584
+
+---2025_01_10_17_31_04|	VAL Model:resnet-50-median-3
+SD-3_5        |	ACC:0.664|	AP:0.656|	R_ACC:0.7030|	F_ACC:0.6256|	Loss:1.4083
+proteusV-0_3  |	ACC:0.724|	AP:0.674|	R_ACC:0.7016|	F_ACC:0.7464|	Loss:1.0143
+SDXL-Turbo    |	ACC:0.805|	AP:0.836|	R_ACC:0.7042|	F_ACC:0.9066|	Loss:0.7585
+openjourney   |	ACC:0.683|	AP:0.681|	R_ACC:0.7050|	F_ACC:0.6602|	Loss:1.2337
+YiffyMix      |	ACC:0.828|	AP:0.861|	R_ACC:0.7112|	F_ACC:0.9438|	Loss:0.7063
+RealVisXL-4_0 |	ACC:0.777|	AP:0.786|	R_ACC:0.7032|	F_ACC:0.8504|	Loss:0.8557
+average       |	ACC:0.747|	AP:0.749|	R_ACC:0.7047|	F_ACC:0.7888|	Loss:0.9962
+
+---2025_01_10_17_55_20|	VAL Model:xception-origin
+SD-3_5        |	ACC:0.951|	AP:0.978|	R_ACC:0.9468|	F_ACC:0.9542|	Loss:0.1452
+proteusV-0_3  |	ACC:0.910|	AP:0.953|	R_ACC:0.9458|	F_ACC:0.8744|	Loss:0.2758
+SDXL-Turbo    |	ACC:0.953|	AP:0.975|	R_ACC:0.9412|	F_ACC:0.9642|	Loss:0.1575
+openjourney   |	ACC:0.797|	AP:0.885|	R_ACC:0.9510|	F_ACC:0.6434|	Loss:0.6897
+YiffyMix      |	ACC:0.970|	AP:0.996|	R_ACC:0.9466|	F_ACC:0.9940|	Loss:0.1047
+RealVisXL-4_0 |	ACC:0.898|	AP:0.946|	R_ACC:0.9492|	F_ACC:0.8462|	Loss:0.3029
+average       |	ACC:0.913|	AP:0.956|	R_ACC:0.9468|	F_ACC:0.8794|	Loss:0.2793
+
+---2025_01_10_18_02_33|	VAL Model:xception-median-3
+SD-3_5        |	ACC:0.923|	AP:0.975|	R_ACC:0.9114|	F_ACC:0.9346|	Loss:0.2918
+proteusV-0_3  |	ACC:0.956|	AP:0.995|	R_ACC:0.9152|	F_ACC:0.9960|	Loss:0.1540
+SDXL-Turbo    |	ACC:0.955|	AP:0.997|	R_ACC:0.9160|	F_ACC:0.9936|	Loss:0.1572
+openjourney   |	ACC:0.941|	AP:0.988|	R_ACC:0.9048|	F_ACC:0.9778|	Loss:0.2064
+YiffyMix      |	ACC:0.940|	AP:0.986|	R_ACC:0.9162|	F_ACC:0.9636|	Loss:0.2167
+RealVisXL-4_0 |	ACC:0.947|	AP:0.994|	R_ACC:0.9064|	F_ACC:0.9880|	Loss:0.1796
+average       |	ACC:0.944|	AP:0.989|	R_ACC:0.9117|	F_ACC:0.9756|	Loss:0.2010

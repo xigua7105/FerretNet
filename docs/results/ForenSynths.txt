@@ -1,0 +1,253 @@
+---2025_01_03_11_50_07|	VAL Model:ferretnet-b-median-3
+stylegan      |	ACC:0.980|	AP:1.000|	R_ACC:0.9995|	F_ACC:0.9614|	Loss:0.0570
+biggan        |	ACC:0.926|	AP:0.985|	R_ACC:0.8600|	F_ACC:0.9915|	Loss:0.2351
+cyclegan      |	ACC:0.988|	AP:0.999|	R_ACC:0.9811|	F_ACC:0.9955|	Loss:0.0304
+gaugan        |	ACC:0.914|	AP:0.998|	R_ACC:0.8282|	F_ACC:0.9998|	Loss:0.2719
+stylegan2     |	ACC:0.985|	AP:1.000|	R_ACC:0.9997|	F_ACC:0.9710|	Loss:0.0350
+progan        |	ACC:0.999|	AP:1.000|	R_ACC:0.9995|	F_ACC:0.9978|	Loss:0.0048
+stargan       |	ACC:0.991|	AP:1.000|	R_ACC:0.9955|	F_ACC:0.9860|	Loss:0.0296
+deepfake      |	ACC:0.892|	AP:0.967|	R_ACC:0.9771|	F_ACC:0.8069|	Loss:0.3983
+average       |	ACC:0.959|	AP:0.993|	R_ACC:0.9551|	F_ACC:0.9637|	Loss:0.1328
+
+---2025_01_03_11_54_06|	VAL Model:ferretnet-b-median-5
+stylegan      |	ACC:0.962|	AP:0.999|	R_ACC:0.9995|	F_ACC:0.9239|	Loss:0.1081
+biggan        |	ACC:0.885|	AP:0.947|	R_ACC:0.7980|	F_ACC:0.9715|	Loss:0.4194
+cyclegan      |	ACC:0.968|	AP:0.996|	R_ACC:0.9447|	F_ACC:0.9917|	Loss:0.0819
+gaugan        |	ACC:0.885|	AP:0.975|	R_ACC:0.7712|	F_ACC:0.9992|	Loss:0.4019
+stylegan2     |	ACC:0.927|	AP:0.999|	R_ACC:0.9997|	F_ACC:0.8533|	Loss:0.1907
+progan        |	ACC:0.999|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9985|	Loss:0.0030
+stargan       |	ACC:0.997|	AP:1.000|	R_ACC:0.9970|	F_ACC:0.9970|	Loss:0.0138
+deepfake      |	ACC:0.723|	AP:0.783|	R_ACC:0.6239|	F_ACC:0.8225|	Loss:0.7721
+average       |	ACC:0.918|	AP:0.962|	R_ACC:0.8918|	F_ACC:0.9447|	Loss:0.2489
+
+---2025_01_03_11_58_32|	VAL Model:ferretnet-b-median-7
+stylegan      |	ACC:0.909|	AP:0.989|	R_ACC:0.9985|	F_ACC:0.8201|	Loss:0.3610
+biggan        |	ACC:0.717|	AP:0.826|	R_ACC:0.9075|	F_ACC:0.5255|	Loss:1.2668
+cyclegan      |	ACC:0.759|	AP:0.923|	R_ACC:0.9621|	F_ACC:0.5564|	Loss:0.7879
+gaugan        |	ACC:0.706|	AP:0.819|	R_ACC:0.8972|	F_ACC:0.5144|	Loss:0.9374
+stylegan2     |	ACC:0.947|	AP:0.997|	R_ACC:0.9975|	F_ACC:0.8966|	Loss:0.1356
+progan        |	ACC:0.999|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9982|	Loss:0.0028
+stargan       |	ACC:0.905|	AP:0.977|	R_ACC:0.9875|	F_ACC:0.8229|	Loss:0.2621
+deepfake      |	ACC:0.650|	AP:0.715|	R_ACC:0.7603|	F_ACC:0.5400|	Loss:0.7982
+average       |	ACC:0.824|	AP:0.906|	R_ACC:0.9388|	F_ACC:0.7093|	Loss:0.5690
+
+---2025_01_03_12_01_57|	VAL Model:ferretnet-b-retmed-3
+stylegan      |	ACC:0.970|	AP:0.997|	R_ACC:0.9574|	F_ACC:0.9816|	Loss:0.0833
+biggan        |	ACC:0.954|	AP:0.991|	R_ACC:0.9235|	F_ACC:0.9835|	Loss:0.1307
+cyclegan      |	ACC:0.988|	AP:0.999|	R_ACC:0.9864|	F_ACC:0.9894|	Loss:0.0427
+gaugan        |	ACC:0.947|	AP:0.995|	R_ACC:0.8944|	F_ACC:1.0000|	Loss:0.1552
+stylegan2     |	ACC:0.958|	AP:0.995|	R_ACC:0.9768|	F_ACC:0.9399|	Loss:0.1111
+progan        |	ACC:1.000|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9992|	Loss:0.0019
+stargan       |	ACC:1.000|	AP:1.000|	R_ACC:1.0000|	F_ACC:1.0000|	Loss:0.0004
+deepfake      |	ACC:0.724|	AP:0.746|	R_ACC:0.7314|	F_ACC:0.7168|	Loss:1.0363
+average       |	ACC:0.943|	AP:0.965|	R_ACC:0.9337|	F_ACC:0.9513|	Loss:0.1952
+
+---2025_01_03_12_05_58|	VAL Model:ferretnet-b-retmed-5
+stylegan      |	ACC:0.938|	AP:0.998|	R_ACC:0.9998|	F_ACC:0.8761|	Loss:0.1854
+biggan        |	ACC:0.814|	AP:0.889|	R_ACC:0.8470|	F_ACC:0.7800|	Loss:0.6120
+cyclegan      |	ACC:0.942|	AP:0.987|	R_ACC:0.9637|	F_ACC:0.9205|	Loss:0.1558
+gaugan        |	ACC:0.831|	AP:0.875|	R_ACC:0.8254|	F_ACC:0.8364|	Loss:0.4702
+stylegan2     |	ACC:0.988|	AP:1.000|	R_ACC:0.9985|	F_ACC:0.9767|	Loss:0.0338
+progan        |	ACC:0.999|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9982|	Loss:0.0028
+stargan       |	ACC:0.920|	AP:0.993|	R_ACC:0.9990|	F_ACC:0.8414|	Loss:0.2189
+deepfake      |	ACC:0.794|	AP:0.811|	R_ACC:0.6550|	F_ACC:0.9325|	Loss:0.7601
+average       |	ACC:0.903|	AP:0.944|	R_ACC:0.9110|	F_ACC:0.8952|	Loss:0.3049
+
+---2025_01_03_12_10_24|	VAL Model:ferretnet-b-retmed-7
+stylegan      |	ACC:0.945|	AP:0.996|	R_ACC:0.9948|	F_ACC:0.8953|	Loss:0.1427
+biggan        |	ACC:0.782|	AP:0.842|	R_ACC:0.7115|	F_ACC:0.8530|	Loss:0.6667
+cyclegan      |	ACC:0.840|	AP:0.926|	R_ACC:0.7101|	F_ACC:0.9705|	Loss:0.4581
+gaugan        |	ACC:0.817|	AP:0.841|	R_ACC:0.6708|	F_ACC:0.9622|	Loss:0.5983
+stylegan2     |	ACC:0.934|	AP:0.997|	R_ACC:0.9969|	F_ACC:0.8719|	Loss:0.1633
+progan        |	ACC:0.997|	AP:1.000|	R_ACC:0.9998|	F_ACC:0.9945|	Loss:0.0092
+stargan       |	ACC:0.929|	AP:0.984|	R_ACC:0.9085|	F_ACC:0.9490|	Loss:0.1880
+deepfake      |	ACC:0.704|	AP:0.830|	R_ACC:0.4248|	F_ACC:0.9837|	Loss:1.3723
+average       |	ACC:0.869|	AP:0.927|	R_ACC:0.8021|	F_ACC:0.9350|	Loss:0.4498
+
+---2025_01_03_12_13_56|	VAL Model:ferretnet-b-excmed-3
+stylegan      |	ACC:0.935|	AP:0.998|	R_ACC:0.9993|	F_ACC:0.8711|	Loss:0.2015
+biggan        |	ACC:0.938|	AP:0.976|	R_ACC:0.9325|	F_ACC:0.9440|	Loss:0.1980
+cyclegan      |	ACC:0.987|	AP:0.999|	R_ACC:0.9826|	F_ACC:0.9909|	Loss:0.0345
+gaugan        |	ACC:0.967|	AP:0.996|	R_ACC:0.9370|	F_ACC:0.9978|	Loss:0.1067
+stylegan2     |	ACC:0.963|	AP:1.000|	R_ACC:0.9999|	F_ACC:0.9266|	Loss:0.0866
+progan        |	ACC:0.999|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9982|	Loss:0.0023
+stargan       |	ACC:0.988|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9770|	Loss:0.0368
+deepfake      |	ACC:0.810|	AP:0.910|	R_ACC:0.7691|	F_ACC:0.8503|	Loss:0.5431
+average       |	ACC:0.949|	AP:0.985|	R_ACC:0.9526|	F_ACC:0.9445|	Loss:0.1512
+
+---2025_01_03_12_17_25|	VAL Model:ferretnet-b-excmed-5
+stylegan      |	ACC:0.951|	AP:0.998|	R_ACC:0.9995|	F_ACC:0.9022|	Loss:0.1517
+biggan        |	ACC:0.816|	AP:0.891|	R_ACC:0.8355|	F_ACC:0.7960|	Loss:0.5749
+cyclegan      |	ACC:0.938|	AP:0.979|	R_ACC:0.9478|	F_ACC:0.9281|	Loss:0.1690
+gaugan        |	ACC:0.905|	AP:0.931|	R_ACC:0.8442|	F_ACC:0.9662|	Loss:0.2844
+stylegan2     |	ACC:0.974|	AP:1.000|	R_ACC:0.9984|	F_ACC:0.9499|	Loss:0.0605
+progan        |	ACC:0.999|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9980|	Loss:0.0033
+stargan       |	ACC:0.788|	AP:0.886|	R_ACC:0.9360|	F_ACC:0.6393|	Loss:0.6130
+deepfake      |	ACC:0.878|	AP:0.964|	R_ACC:0.8205|	F_ACC:0.9355|	Loss:0.3129
+average       |	ACC:0.906|	AP:0.956|	R_ACC:0.9227|	F_ACC:0.8894|	Loss:0.2712
+
+---2025_01_03_12_21_39|	VAL Model:ferretnet-b-excmed-7
+stylegan      |	ACC:0.906|	AP:0.991|	R_ACC:0.9977|	F_ACC:0.8136|	Loss:0.3322
+biggan        |	ACC:0.852|	AP:0.894|	R_ACC:0.7745|	F_ACC:0.9285|	Loss:0.4952
+cyclegan      |	ACC:0.915|	AP:0.982|	R_ACC:0.9599|	F_ACC:0.8706|	Loss:0.2222
+gaugan        |	ACC:0.829|	AP:0.830|	R_ACC:0.7566|	F_ACC:0.9004|	Loss:0.5304
+stylegan2     |	ACC:0.928|	AP:0.997|	R_ACC:0.9967|	F_ACC:0.8599|	Loss:0.1797
+progan        |	ACC:0.998|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9965|	Loss:0.0082
+stargan       |	ACC:0.837|	AP:0.925|	R_ACC:0.8609|	F_ACC:0.8139|	Loss:0.3794
+deepfake      |	ACC:0.819|	AP:0.916|	R_ACC:0.7639|	F_ACC:0.8732|	Loss:0.4277
+average       |	ACC:0.885|	AP:0.942|	R_ACC:0.8888|	F_ACC:0.8821|	Loss:0.3219
+
+---2025_01_03_12_24_24|	VAL Model:ferretnet-b-max-3
+stylegan      |	ACC:0.979|	AP:0.999|	R_ACC:0.9968|	F_ACC:0.9618|	Loss:0.0597
+biggan        |	ACC:0.883|	AP:0.971|	R_ACC:0.7770|	F_ACC:0.9890|	Loss:0.4118
+cyclegan      |	ACC:0.976|	AP:1.000|	R_ACC:0.9523|	F_ACC:0.9992|	Loss:0.0651
+gaugan        |	ACC:0.847|	AP:0.989|	R_ACC:0.7008|	F_ACC:0.9928|	Loss:0.5007
+stylegan2     |	ACC:0.962|	AP:0.999|	R_ACC:0.9986|	F_ACC:0.9250|	Loss:0.0955
+progan        |	ACC:0.998|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9952|	Loss:0.0080
+stargan       |	ACC:1.000|	AP:1.000|	R_ACC:1.0000|	F_ACC:1.0000|	Loss:0.0021
+deepfake      |	ACC:0.860|	AP:0.923|	R_ACC:0.9058|	F_ACC:0.8139|	Loss:0.4483
+average       |	ACC:0.938|	AP:0.985|	R_ACC:0.9164|	F_ACC:0.9596|	Loss:0.1989
+
+---2025_01_03_12_27_10|	VAL Model:ferretnet-b-max-5
+stylegan      |	ACC:0.889|	AP:0.987|	R_ACC:0.9998|	F_ACC:0.7788|	Loss:0.5454
+biggan        |	ACC:0.817|	AP:0.867|	R_ACC:0.7270|	F_ACC:0.9070|	Loss:0.6148
+cyclegan      |	ACC:0.897|	AP:0.961|	R_ACC:0.9099|	F_ACC:0.8842|	Loss:0.2743
+gaugan        |	ACC:0.796|	AP:0.810|	R_ACC:0.7052|	F_ACC:0.8860|	Loss:0.6441
+stylegan2     |	ACC:0.917|	AP:0.998|	R_ACC:0.9989|	F_ACC:0.8349|	Loss:0.2054
+progan        |	ACC:0.998|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9960|	Loss:0.0085
+stargan       |	ACC:0.994|	AP:1.000|	R_ACC:0.9995|	F_ACC:0.9885|	Loss:0.0217
+deepfake      |	ACC:0.815|	AP:0.854|	R_ACC:0.7761|	F_ACC:0.8532|	Loss:0.6525
+average       |	ACC:0.890|	AP:0.935|	R_ACC:0.8896|	F_ACC:0.8911|	Loss:0.3708
+
+---2025_01_03_12_29_56|	VAL Model:ferretnet-b-max-7
+stylegan      |	ACC:0.952|	AP:0.997|	R_ACC:0.9987|	F_ACC:0.9045|	Loss:0.1623
+biggan        |	ACC:0.765|	AP:0.789|	R_ACC:0.6045|	F_ACC:0.9260|	Loss:0.8204
+cyclegan      |	ACC:0.885|	AP:0.951|	R_ACC:0.8804|	F_ACC:0.8887|	Loss:0.3025
+gaugan        |	ACC:0.771|	AP:0.939|	R_ACC:0.5464|	F_ACC:0.9966|	Loss:0.7904
+stylegan2     |	ACC:0.952|	AP:0.999|	R_ACC:0.9996|	F_ACC:0.9051|	Loss:0.1193
+progan        |	ACC:0.997|	AP:1.000|	R_ACC:0.9995|	F_ACC:0.9935|	Loss:0.0117
+stargan       |	ACC:0.881|	AP:0.977|	R_ACC:0.9820|	F_ACC:0.7799|	Loss:0.3073
+deepfake      |	ACC:0.852|	AP:0.916|	R_ACC:0.7931|	F_ACC:0.9107|	Loss:0.4312
+average       |	ACC:0.882|	AP:0.946|	R_ACC:0.8505|	F_ACC:0.9131|	Loss:0.3681
+
+---2025_01_03_12_32_41|	VAL Model:ferretnet-b-min-3
+stylegan      |	ACC:0.987|	AP:0.999|	R_ACC:0.9965|	F_ACC:0.9773|	Loss:0.0421
+biggan        |	ACC:0.887|	AP:0.968|	R_ACC:0.7950|	F_ACC:0.9795|	Loss:0.3292
+cyclegan      |	ACC:0.979|	AP:0.999|	R_ACC:0.9614|	F_ACC:0.9970|	Loss:0.0593
+gaugan        |	ACC:0.856|	AP:0.988|	R_ACC:0.7222|	F_ACC:0.9900|	Loss:0.4200
+stylegan2     |	ACC:0.953|	AP:0.999|	R_ACC:0.9984|	F_ACC:0.9076|	Loss:0.1027
+progan        |	ACC:0.999|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9978|	Loss:0.0046
+stargan       |	ACC:1.000|	AP:1.000|	R_ACC:1.0000|	F_ACC:1.0000|	Loss:0.0022
+deepfake      |	ACC:0.789|	AP:0.871|	R_ACC:0.9040|	F_ACC:0.6727|	Loss:0.6146
+average       |	ACC:0.931|	AP:0.978|	R_ACC:0.9222|	F_ACC:0.9402|	Loss:0.1968
+
+---2025_01_03_12_35_25|	VAL Model:ferretnet-b-min-5
+stylegan      |	ACC:0.847|	AP:0.969|	R_ACC:1.0000|	F_ACC:0.6937|	Loss:1.1305
+biggan        |	ACC:0.797|	AP:0.804|	R_ACC:0.6780|	F_ACC:0.9165|	Loss:0.8273
+cyclegan      |	ACC:0.944|	AP:0.987|	R_ACC:0.9463|	F_ACC:0.9410|	Loss:0.1692
+gaugan        |	ACC:0.740|	AP:0.727|	R_ACC:0.5320|	F_ACC:0.9472|	Loss:1.0769
+stylegan2     |	ACC:0.878|	AP:0.996|	R_ACC:1.0000|	F_ACC:0.7555|	Loss:0.5800
+progan        |	ACC:0.998|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9952|	Loss:0.0094
+stargan       |	ACC:0.999|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9990|	Loss:0.0043
+deepfake      |	ACC:0.789|	AP:0.772|	R_ACC:0.8153|	F_ACC:0.7632|	Loss:0.8541
+average       |	ACC:0.874|	AP:0.907|	R_ACC:0.8714|	F_ACC:0.8764|	Loss:0.5815
+
+---2025_01_03_12_38_10|	VAL Model:ferretnet-b-min-7
+stylegan      |	ACC:0.848|	AP:0.961|	R_ACC:1.0000|	F_ACC:0.6969|	Loss:1.2159
+biggan        |	ACC:0.793|	AP:0.839|	R_ACC:0.6725|	F_ACC:0.9140|	Loss:0.7878
+cyclegan      |	ACC:0.907|	AP:0.965|	R_ACC:0.9001|	F_ACC:0.9145|	Loss:0.2546
+gaugan        |	ACC:0.708|	AP:0.710|	R_ACC:0.5174|	F_ACC:0.8976|	Loss:1.0936
+stylegan2     |	ACC:0.841|	AP:0.985|	R_ACC:1.0000|	F_ACC:0.6824|	Loss:0.9354
+progan        |	ACC:0.995|	AP:1.000|	R_ACC:0.9995|	F_ACC:0.9912|	Loss:0.0197
+stargan       |	ACC:1.000|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9995|	Loss:0.0014
+deepfake      |	ACC:0.799|	AP:0.885|	R_ACC:0.8995|	F_ACC:0.6972|	Loss:0.6529
+average       |	ACC:0.861|	AP:0.918|	R_ACC:0.8736|	F_ACC:0.8492|	Loss:0.6202
+
+---2025_01_03_12_40_57|	VAL Model:ferretnet-b-avg-3
+stylegan      |	ACC:0.944|	AP:0.994|	R_ACC:0.9993|	F_ACC:0.8882|	Loss:0.1859
+biggan        |	ACC:0.910|	AP:0.971|	R_ACC:0.8420|	F_ACC:0.9785|	Loss:0.3028
+cyclegan      |	ACC:0.983|	AP:0.999|	R_ACC:0.9909|	F_ACC:0.9743|	Loss:0.0434
+gaugan        |	ACC:0.889|	AP:0.981|	R_ACC:0.7836|	F_ACC:0.9940|	Loss:0.3535
+stylegan2     |	ACC:0.777|	AP:0.955|	R_ACC:0.9995|	F_ACC:0.5537|	Loss:0.9375
+progan        |	ACC:0.998|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9958|	Loss:0.0062
+stargan       |	ACC:1.000|	AP:1.000|	R_ACC:1.0000|	F_ACC:1.0000|	Loss:0.0002
+deepfake      |	ACC:0.801|	AP:0.869|	R_ACC:0.7802|	F_ACC:0.8221|	Loss:0.6073
+average       |	ACC:0.913|	AP:0.971|	R_ACC:0.9244|	F_ACC:0.9008|	Loss:0.3046
+
+---2025_01_03_12_43_44|	VAL Model:ferretnet-b-avg-5
+stylegan      |	ACC:0.831|	AP:0.933|	R_ACC:1.0000|	F_ACC:0.6615|	Loss:1.5131
+biggan        |	ACC:0.769|	AP:0.842|	R_ACC:0.6130|	F_ACC:0.9250|	Loss:0.6538
+cyclegan      |	ACC:0.943|	AP:0.986|	R_ACC:0.9311|	F_ACC:0.9553|	Loss:0.1449
+gaugan        |	ACC:0.617|	AP:0.533|	R_ACC:0.4408|	F_ACC:0.7928|	Loss:1.0534
+stylegan2     |	ACC:0.860|	AP:0.955|	R_ACC:1.0000|	F_ACC:0.7197|	Loss:1.1328
+progan        |	ACC:0.998|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9950|	Loss:0.0089
+stargan       |	ACC:0.998|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9965|	Loss:0.0168
+deepfake      |	ACC:0.808|	AP:0.749|	R_ACC:0.7950|	F_ACC:0.8213|	Loss:0.6392
+average       |	ACC:0.853|	AP:0.875|	R_ACC:0.8475|	F_ACC:0.8584|	Loss:0.6454
+
+---2025_01_03_12_46_36|	VAL Model:ferretnet-b-avg-7
+stylegan      |	ACC:0.858|	AP:0.989|	R_ACC:1.0000|	F_ACC:0.7157|	Loss:0.6489
+biggan        |	ACC:0.858|	AP:0.928|	R_ACC:0.8400|	F_ACC:0.8765|	Loss:0.3523
+cyclegan      |	ACC:0.916|	AP:0.994|	R_ACC:0.9917|	F_ACC:0.8410|	Loss:0.1865
+gaugan        |	ACC:0.871|	AP:0.899|	R_ACC:0.7930|	F_ACC:0.9494|	Loss:0.3477
+stylegan2     |	ACC:0.839|	AP:0.978|	R_ACC:1.0000|	F_ACC:0.6781|	Loss:0.8881
+progan        |	ACC:0.998|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9952|	Loss:0.0073
+stargan       |	ACC:0.999|	AP:1.000|	R_ACC:0.9985|	F_ACC:1.0000|	Loss:0.0067
+deepfake      |	ACC:0.802|	AP:0.703|	R_ACC:0.6812|	F_ACC:0.9236|	Loss:1.1211
+average       |	ACC:0.893|	AP:0.936|	R_ACC:0.9130|	F_ACC:0.8725|	Loss:0.4448
+
+---2025_01_03_12_49_24|	VAL Model:ferretnet-b-origin
+stylegan      |	ACC:0.872|	AP:0.954|	R_ACC:0.9987|	F_ACC:0.7463|	Loss:0.7456
+biggan        |	ACC:0.767|	AP:0.846|	R_ACC:0.6425|	F_ACC:0.8920|	Loss:0.7277
+cyclegan      |	ACC:0.947|	AP:0.983|	R_ACC:0.9349|	F_ACC:0.9591|	Loss:0.1362
+gaugan        |	ACC:0.648|	AP:0.639|	R_ACC:0.4448|	F_ACC:0.8512|	Loss:1.0965
+stylegan2     |	ACC:0.889|	AP:0.988|	R_ACC:0.9984|	F_ACC:0.7799|	Loss:0.4122
+progan        |	ACC:0.999|	AP:1.000|	R_ACC:0.9998|	F_ACC:0.9978|	Loss:0.0036
+stargan       |	ACC:1.000|	AP:1.000|	R_ACC:1.0000|	F_ACC:1.0000|	Loss:0.0014
+deepfake      |	ACC:0.649|	AP:0.699|	R_ACC:0.7887|	F_ACC:0.5093|	Loss:1.2044
+average       |	ACC:0.846|	AP:0.889|	R_ACC:0.8510|	F_ACC:0.8419|	Loss:0.5409
+
+---2025_01_10_17_14_01|	VAL Model:resnet-50-origin
+stylegan      |	ACC:0.856|	AP:0.938|	R_ACC:0.9978|	F_ACC:0.7134|	Loss:0.9038
+biggan        |	ACC:0.661|	AP:0.708|	R_ACC:0.4085|	F_ACC:0.9135|	Loss:1.8897
+cyclegan      |	ACC:0.697|	AP:0.842|	R_ACC:0.4428|	F_ACC:0.9516|	Loss:1.4895
+gaugan        |	ACC:0.555|	AP:0.508|	R_ACC:0.1818|	F_ACC:0.9282|	Loss:2.5976
+stylegan2     |	ACC:0.973|	AP:0.998|	R_ACC:0.9946|	F_ACC:0.9511|	Loss:0.0825
+progan        |	ACC:0.995|	AP:1.000|	R_ACC:0.9990|	F_ACC:0.9900|	Loss:0.0157
+stargan       |	ACC:0.997|	AP:1.000|	R_ACC:0.9950|	F_ACC:1.0000|	Loss:0.0069
+deepfake      |	ACC:0.874|	AP:0.962|	R_ACC:0.9679|	F_ACC:0.7791|	Loss:0.4357
+average       |	ACC:0.826|	AP:0.870|	R_ACC:0.7484|	F_ACC:0.9034|	Loss:0.9277
+
+---2025_01_10_17_21_10|	VAL Model:resnet-50-median-3
+stylegan      |	ACC:0.906|	AP:0.983|	R_ACC:0.9943|	F_ACC:0.8179|	Loss:0.3801
+biggan        |	ACC:0.874|	AP:0.899|	R_ACC:0.8100|	F_ACC:0.9380|	Loss:0.6154
+cyclegan      |	ACC:0.792|	AP:0.932|	R_ACC:0.6139|	F_ACC:0.9697|	Loss:0.9449
+gaugan        |	ACC:0.860|	AP:0.958|	R_ACC:0.7384|	F_ACC:0.9820|	Loss:0.6244
+stylegan2     |	ACC:0.928|	AP:0.990|	R_ACC:0.9914|	F_ACC:0.8645|	Loss:0.2426
+progan        |	ACC:0.996|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9915|	Loss:0.0124
+stargan       |	ACC:0.925|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.8509|	Loss:0.2209
+deepfake      |	ACC:0.851|	AP:0.921|	R_ACC:0.8740|	F_ACC:0.8280|	Loss:0.4612
+average       |	ACC:0.892|	AP:0.960|	R_ACC:0.8778|	F_ACC:0.9053|	Loss:0.4377
+
+---2025_01_10_17_47_58|	VAL Model:xception-origin
+stylegan      |	ACC:0.838|	AP:0.938|	R_ACC:1.0000|	F_ACC:0.6768|	Loss:0.8131
+biggan        |	ACC:0.769|	AP:0.799|	R_ACC:0.7030|	F_ACC:0.8360|	Loss:0.6792
+cyclegan      |	ACC:0.864|	AP:0.947|	R_ACC:0.9440|	F_ACC:0.7835|	Loss:0.2856
+gaugan        |	ACC:0.682|	AP:0.655|	R_ACC:0.5374|	F_ACC:0.8276|	Loss:0.9644
+stylegan2     |	ACC:0.853|	AP:0.951|	R_ACC:1.0000|	F_ACC:0.7069|	Loss:0.7287
+progan        |	ACC:0.997|	AP:0.999|	R_ACC:0.9998|	F_ACC:0.9935|	Loss:0.0145
+stargan       |	ACC:0.942|	AP:0.996|	R_ACC:0.9930|	F_ACC:0.8914|	Loss:0.1439
+deepfake      |	ACC:0.722|	AP:0.727|	R_ACC:0.6003|	F_ACC:0.8436|	Loss:0.9927
+average       |	ACC:0.834|	AP:0.877|	R_ACC:0.8472|	F_ACC:0.8199|	Loss:0.5777
+
+---2025_01_10_17_45_06|	VAL Model:xception-median-3
+stylegan      |	ACC:0.973|	AP:0.998|	R_ACC:0.9992|	F_ACC:0.9476|	Loss:0.0897
+biggan        |	ACC:0.919|	AP:0.987|	R_ACC:0.8455|	F_ACC:0.9930|	Loss:0.3453
+cyclegan      |	ACC:0.936|	AP:0.989|	R_ACC:0.8993|	F_ACC:0.9727|	Loss:0.2008
+gaugan        |	ACC:0.921|	AP:0.999|	R_ACC:0.8424|	F_ACC:1.0000|	Loss:0.2991
+stylegan2     |	ACC:0.968|	AP:0.997|	R_ACC:0.9986|	F_ACC:0.9370|	Loss:0.1154
+progan        |	ACC:0.999|	AP:1.000|	R_ACC:1.0000|	F_ACC:0.9972|	Loss:0.0049
+stargan       |	ACC:0.993|	AP:1.000|	R_ACC:0.9980|	F_ACC:0.9890|	Loss:0.0182
+deepfake      |	ACC:0.896|	AP:0.962|	R_ACC:0.8463|	F_ACC:0.9455|	Loss:0.3138
+average       |	ACC:0.951|	AP:0.992|	R_ACC:0.9287|	F_ACC:0.9728|	Loss:0.1734
+
