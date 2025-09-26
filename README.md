@@ -17,7 +17,7 @@ RenZhang Chen,
 
 
 [![license](https://img.shields.io/badge/license-Apache_2.0-blue)](LICENSE)
-[![paper](https://img.shields.io/badge/NeurIPS'25-FerretNet-red)](https://neurips.cc/virtual/2025/poster/118720)
+[![paper](https://img.shields.io/badge/NeurIPS'25-FerretNet-red)](https://arxiv.org/abs/2509.20890)
 
 </div>
 <div align="center">
@@ -26,7 +26,7 @@ RenZhang Chen,
 
 
 ## 📢 News
-- **[2025.09.25]** **We have released the code, dataset and pre-trained model of FerretNet!**
+- **[2025.09.25]** **We have released the code, dataset and pre-trained model of [FerretNet](https://arxiv.org/abs/2509.20890)!**
 - **[2025.09.18]** **FerretNet has been accepted by NeurIPS 2025!** 🎉🎉🎉
 
 
